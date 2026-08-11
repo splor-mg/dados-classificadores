@@ -1,0 +1,633 @@
+{
+  "name": "dados_classificadores",
+  "title": "Tabelas Auxiliares de Classificadores",
+  "resources": [
+    {
+      "name": "acao",
+      "type": "table",
+      "path": "data/acao.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:02d90c224a58fa802f6713c3074327488e91c55e426512e4e545061112ee83bc",
+      "bytes": 1289209,
+      "fields": 3,
+      "rows": 20566,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "acao_cod",
+            "type": "string",
+            "title": "Projeto_Atividade - Código",
+            "description": "Código identificador do conjunto de operações, limitadas no tempo (projeto) ou realizadas de modo contínuo e permanente (atividade)\ndos quais resulta um produto final (projeto) ou necessárias à manutenção da ação governamental (atividade).\n",
+            "constraints": {
+              "pattern": "^(0|[1-9]\\d{3})$"
+            }
+          },
+          {
+            "name": "acao_desc",
+            "type": "string",
+            "title": "Projeto_Atividade - Descrição",
+            "description": "Descrição do conjunto de operações, limitadas no tempo (projeto) ou realizadas de modo contínuo e permanente (atividade)\ndos quais resulta um produto final (projeto) ou necessárias à manutenção da ação governamental.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "elemento",
+      "type": "table",
+      "path": "data/elemento.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:9d204ac904f2bcf8b9b385e2d68302b92faf2552152cdbdfcda0cd915ba41fa1",
+      "bytes": 61707,
+      "fields": 3,
+      "rows": 1393,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "elemento_cod",
+            "type": "string",
+            "title": "Elemento Despesa - Código",
+            "description": "Código identificador do elemento de gasto da despesa.\n",
+            "constraints": {
+              "pattern": "^(0|[1-9]\\d{0,1})$"
+            }
+          },
+          {
+            "name": "elemento_desc",
+            "type": "string",
+            "title": "Elemento Despesa - Descrição",
+            "description": "Descrição do elemento de despesa.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "elemento_item",
+      "type": "table",
+      "path": "data/elemento_item.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:532bcb7ea57b468d5d8b273ee5de866ca328bb11265765bade3af391129b356a",
+      "bytes": 468532,
+      "fields": 3,
+      "rows": 9966,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "elemento_item_cod",
+            "type": "string",
+            "title": "Elemento Item Despesa Origem - Código",
+            "description": "Código identificador do elemento item de gasto da despesa.\n",
+            "constraints": {
+              "pattern": "^(0|[1-9]\\d{0,3})$"
+            }
+          },
+          {
+            "name": "elemento_item_desc",
+            "type": "string",
+            "title": "Elemento Item Despesa - Descrição",
+            "description": "Descrição do elemento item de despesa.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "fonte",
+      "type": "table",
+      "path": "data/fonte.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:b6207cae3859483376ea297e24d8853c9b545c297c39a1773162e55cd0ba1251",
+      "bytes": 72301,
+      "fields": 3,
+      "rows": 1211,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "fonte_cod",
+            "type": "string",
+            "title": "Fonte Recurso - Código",
+            "description": "Código referente à fonte dos recursos financeiros, de acordo com o SIAFI-MG.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^(0|[1-9]\\d{0,1})$"
+            }
+          },
+          {
+            "name": "fonte_desc",
+            "type": "string",
+            "title": "Fonte Recurso - Descrição",
+            "description": "Descrição da fonte dos recursos financeiros.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "funcao",
+      "type": "table",
+      "path": "data/funcao.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:a7255d1521c12462bf48cb8d2140104059ae51bd28b130db9250818c9156c42b",
+      "bytes": 33264,
+      "fields": 3,
+      "rows": 689,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "funcao_cod",
+            "type": "string",
+            "title": "Função - Código",
+            "description": "Código identificador do nível máximo de agregação das ações do Governo.\n",
+            "constraints": {
+              "pattern": "^[1-9]\\d{0,1}$"
+            }
+          },
+          {
+            "name": "funcao_desc",
+            "type": "string",
+            "title": "Função - Descrição",
+            "description": "Descrição do nível máximo de agregação das ações do Governo.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "grupo_categoria",
+      "type": "table",
+      "path": "data/grupo_categoria.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:186c2941b7fce2af65073acc17731cdc5cb9d66510a241fe59fb89214e69a658",
+      "bytes": 9130,
+      "fields": 5,
+      "rows": 175,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "grupo_cod",
+            "type": "string",
+            "title": "Grupo Despesa - Código",
+            "description": "Código do grupo de natureza econômica da despesa.\n",
+            "constraints": {
+              "pattern": "^([1-6]|9)$"
+            }
+          },
+          {
+            "name": "grupo_desc",
+            "type": "string",
+            "title": "Grupo Despesa - Descrição",
+            "description": "Descrição do grupo de natureza econômica da despesa.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          },
+          {
+            "name": "categoria_cod",
+            "type": "string"
+          },
+          {
+            "name": "categoria_desc",
+            "type": "string",
+            "title": "Categoria Econômica Despesa - Desc",
+            "description": "Descrição da categoria econômica da despesa.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "ipu",
+      "type": "table",
+      "path": "data/ipu.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:e6c59ab221c8644814e60e4d328e4ef918da285bfbc411a9377c67b3e8a9f418",
+      "bytes": 13497,
+      "fields": 3,
+      "rows": 193,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "ipu_cod",
+            "type": "string",
+            "title": "Procedência - Código",
+            "description": "Código identificador da procedência dos recursos financeiros conforme o SIAFI-MG.\n",
+            "constraints": {
+              "pattern": "^\\d{1}$"
+            }
+          },
+          {
+            "name": "ipu_desc",
+            "type": "string",
+            "title": "Procedência - Descrição",
+            "description": "Descrição da procedência dos recursos financeiros.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "modalidade",
+      "type": "table",
+      "path": "data/modalidade.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:f5e501fbfa6c7648b0cedd9aa20e4e747a9e64bb8163988b48b8922a8b347a74",
+      "bytes": 13251,
+      "fields": 3,
+      "rows": 259,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "modalidade_cod",
+            "type": "string",
+            "title": "Modalidade Aplicação - Código",
+            "description": "Classificação da natureza da despesa que traduz a forma como os recursos serão aplicados pelos órgãos/entidades.\nPode ser diretamente pelos mesmos ou sob a forma de transferências a outras entidades públicas ou privadas que se encarregarão da execução das ações.\n",
+            "constraints": {
+              "pattern": "^(0|\\d{2})$"
+            }
+          },
+          {
+            "name": "modalidade_desc",
+            "type": "string",
+            "title": "Modalidade Aplicação - Descrição",
+            "description": "Classificação da natureza da despesa que traduz a forma como os recursos serão aplicados pelos órgãos/entidades.\nPode ser diretamente pelos mesmos ou sob a forma de transferências a outras entidades públicas ou privadas que se encarregarão da execução das ações.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "programa",
+      "type": "table",
+      "path": "data/programa.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:b653299e7bdac9e7e94bef73ea0833421a1ecc69e0474101a81c174891786f3b",
+      "bytes": 462544,
+      "fields": 3,
+      "rows": 5042,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "programa_cod",
+            "type": "string",
+            "title": "Programa - Código",
+            "description": "Código identificador do objeto concreto, bem ou serviço que se quer atingir.\n",
+            "constraints": {
+              "pattern": "^[1-9]\\d{0,3}$"
+            }
+          },
+          {
+            "name": "programa_desc",
+            "type": "string",
+            "title": "Programa - Descrição",
+            "description": "Descrição do objetivo contreto, bem ou serviço que se quer atingir.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "receita",
+      "type": "table",
+      "path": "data/receita.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:52f1452a543a76853ef4be70d0c40219a507537e74b4ccebe1f19acec10302c7",
+      "bytes": 576953,
+      "fields": 3,
+      "rows": 5467,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "receita_cod",
+            "type": "string",
+            "title": "Classificação Receita - Código",
+            "description": "Código da classificação da receita.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^(0|[1-9]\\d{9,12})$"
+            }
+          },
+          {
+            "name": "receita_desc",
+            "type": "string",
+            "title": "Classificação Receita - Descrição",
+            "description": "Descrição da Classificação da Receita.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "subfuncao",
+      "type": "table",
+      "path": "data/subfuncao.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:eef7ed6ed6bb91cc4e2ff9443cf1c0821e8c773948800ae87c1d36ca8d5ecdb7",
+      "bytes": 116920,
+      "fields": 3,
+      "rows": 2167,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "subfuncao_cod",
+            "type": "string",
+            "title": "Subfunção - Código",
+            "description": "Código de identificador do detalhamento das áreas de atuação do Governo.\n",
+            "constraints": {
+              "pattern": "^(0|[1-9]\\d{1,2})$"
+            }
+          },
+          {
+            "name": "subfuncao_desc",
+            "type": "string",
+            "title": "Subfunção - Descrição",
+            "description": "Descrição do detalhamento das áreas de atuação do Governo.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "uo",
+      "type": "table",
+      "path": "data/uo.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:21dfd94276005fa1d0e97d731e7d4a62c0c964280b1e758dc7281d973f8933e4",
+      "bytes": 174732,
+      "fields": 4,
+      "rows": 2669,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "uo_cod",
+            "type": "string",
+            "title": "Unidade Orçamentária - Código",
+            "description": "Código representativo da unidade orçamentária.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-9]\\d{3}$"
+            }
+          },
+          {
+            "name": "uo_sigla",
+            "type": "string",
+            "title": "Unidade Orçamentária - Sigla",
+            "description": "Nome abreviado ou sigla da unidade orçamentária.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          },
+          {
+            "name": "uo_nome",
+            "type": "string",
+            "title": "Unidade Orçamentária - Nome",
+            "description": "Nome completo da Unidade Orçamentária.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
+  "updated_at": "2026-08-11T12:35:05"
+}
