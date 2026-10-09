@@ -28,7 +28,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -82,7 +82,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -132,7 +132,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -186,7 +186,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -237,7 +237,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -287,7 +287,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -355,7 +355,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -405,7 +405,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -459,7 +459,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -509,7 +509,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -560,7 +560,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -610,7 +610,7 @@
             "description": "Ano de exercício do orçamento fiscal.\n",
             "constraints": {
               "required": true,
-              "pattern": "^[1-9]\\d{3}$"
+              "pattern": "^[1-2]\\d{3}$"
             }
           },
           {
@@ -646,5 +646,5 @@
     }
   ],
   "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
-  "updated_at": "2026-10-08T17:34:52"
+  "updated_at": "2026-10-09T17:10:56"
 }
