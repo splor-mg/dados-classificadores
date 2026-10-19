@@ -10,10 +10,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:02d90c224a58fa802f6713c3074327488e91c55e426512e4e545061112ee83bc",
-      "bytes": 1289209,
+      "hash": "sha256:a512f69d5793247c798529a5997caf61a8828dd798a56994edc955140f89380d",
+      "bytes": 1312975,
       "fields": 3,
-      "rows": 20566,
+      "rows": 20971,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -64,10 +64,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:9d204ac904f2bcf8b9b385e2d68302b92faf2552152cdbdfcda0cd915ba41fa1",
-      "bytes": 61707,
+      "hash": "sha256:12eb1079b9ab5dd8f25af9ac2af1f5a4d748c495db5107965894e509b6a99316",
+      "bytes": 67250,
       "fields": 3,
-      "rows": 1393,
+      "rows": 1530,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -114,10 +114,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:7170b5530214149285905105cdc8c856750c07afab9507fbdc0f3ec9f68290d3",
-      "bytes": 469054,
+      "hash": "sha256:0cfb3bebecc916df71647f27b9cd963a9aafc7cb682ef6fa81a4dc866cdc58b6",
+      "bytes": 491429,
       "fields": 3,
-      "rows": 9975,
+      "rows": 10469,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -168,10 +168,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b6207cae3859483376ea297e24d8853c9b545c297c39a1773162e55cd0ba1251",
-      "bytes": 72301,
+      "hash": "sha256:a6490f2fbf5c59b6592c0eba7e223d13467c1c3af96957bb53483f41fa2ebf18",
+      "bytes": 74626,
       "fields": 3,
-      "rows": 1211,
+      "rows": 1266,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -219,10 +219,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:a7255d1521c12462bf48cb8d2140104059ae51bd28b130db9250818c9156c42b",
-      "bytes": 33264,
+      "hash": "sha256:a9d02cdf98b1b64681389e4a8d8940ed1ce4dbe9eadf4cc1cd1c7d21a60646bf",
+      "bytes": 35539,
       "fields": 3,
-      "rows": 689,
+      "rows": 764,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -269,10 +269,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:186c2941b7fce2af65073acc17731cdc5cb9d66510a241fe59fb89214e69a658",
-      "bytes": 9130,
+      "hash": "sha256:5dd91c1460bf1b0e5fadad2923da5c0cc69766b77ed7fb553750c7c2339dc685",
+      "bytes": 10695,
       "fields": 5,
-      "rows": 175,
+      "rows": 205,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -296,7 +296,7 @@
             "title": "Grupo Despesa - Código",
             "description": "Código do grupo de natureza econômica da despesa.\nConsiste na agregação de elementos de despesa que apresentam as mesmas características quanto ao objeto do gasto.\nA Portaria Interministerial STN/SOF n.o 163/01 definiu como grupos de despesa: (1) pessoal e encargos sociais, (2) juros e encargos da dívida, (3) outras despesas correntes, (4) investimentos, (5) inversões financeiras e (6) amortização da dívida.\n",
             "constraints": {
-              "pattern": "^([1-6]|9)$"
+              "pattern": "^([0-6]|9)$"
             }
           },
           {
@@ -337,10 +337,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:e6c59ab221c8644814e60e4d328e4ef918da285bfbc411a9377c67b3e8a9f418",
-      "bytes": 13497,
+      "hash": "sha256:7a852494bfa471c8081e6ac0048857bafbac271db48628fb13ab7290f2e44ac4",
+      "bytes": 14200,
       "fields": 3,
-      "rows": 193,
+      "rows": 214,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -387,10 +387,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:f5e501fbfa6c7648b0cedd9aa20e4e747a9e64bb8163988b48b8922a8b347a74",
-      "bytes": 13251,
+      "hash": "sha256:dc914fc91761b9efbbf4e4b68f46958316cc6a50ee605e3a34784db1ec2b9316",
+      "bytes": 14244,
       "fields": 3,
-      "rows": 259,
+      "rows": 283,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -441,10 +441,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b653299e7bdac9e7e94bef73ea0833421a1ecc69e0474101a81c174891786f3b",
-      "bytes": 462544,
+      "hash": "sha256:c7556576d317df9c841d8ec51fc4640f3c99bf25e0ada7ddf13e73256cf99047",
+      "bytes": 475189,
       "fields": 3,
-      "rows": 5042,
+      "rows": 5257,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -491,10 +491,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:53a4a4f4419bf0561cd2a77bd465c5ae40238412bb7973d2b6638dda2de8addd",
-      "bytes": 578336,
+      "hash": "sha256:e0c2befe9dbaa49b1d0bc08795fe7521881db03ca9c7030dfef5627191b74368",
+      "bytes": 1325300,
       "fields": 3,
-      "rows": 5480,
+      "rows": 14156,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -542,10 +542,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:eef7ed6ed6bb91cc4e2ff9443cf1c0821e8c773948800ae87c1d36ca8d5ecdb7",
-      "bytes": 116920,
+      "hash": "sha256:c44be615d870683fabaf1148cc364e5b9295c0990662e5743e99685cc8e4e149",
+      "bytes": 120370,
       "fields": 3,
-      "rows": 2167,
+      "rows": 2251,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -592,10 +592,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:21dfd94276005fa1d0e97d731e7d4a62c0c964280b1e758dc7281d973f8933e4",
-      "bytes": 174732,
+      "hash": "sha256:b0065c809e22a450cd9c1d87863a159f6fa8272cc716210b8f47ca7c69197044",
+      "bytes": 193441,
       "fields": 4,
-      "rows": 2669,
+      "rows": 2963,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -646,5 +646,5 @@
     }
   ],
   "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
-  "updated_at": "2026-10-15T15:04:14"
+  "updated_at": "2026-10-19T14:29:11"
 }

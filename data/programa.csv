@@ -1,4 +1,196 @@
 ano,programa_cod,programa_desc
+1995,7,ADMINISTRACAO
+1995,99,RESERVA DE CONTINGENCIA
+1996,7,ADMINISTRACAO
+1996,8,ADMINISTRACAO FINANCEIRA
+1996,88,TRANSPORTE RODOVIARIO
+1996,99,RESERVA DE CONTINGENCIA
+1997,7,ADMINISTRACAO
+1997,8,ADMINISTRACAO FINANCEIRA
+1997,88,TRANSPORTE RODOVIARIO
+1997,99,RESERVA DE CONTINGENCIA
+1998,7,ADMINISTRACAO
+1998,8,ADMINISTRACAO FINANCEIRA
+1998,9,PLANEJAMENTO GOVERNAMENTAL
+1998,42,ENSINO FUNDAMENTAL
+1998,76,SANEAMENTO
+1998,88,TRANSPORTE RODOVIARIO
+1998,99,RESERVA DE CONTINGENCIA
+1998,736,PROGRAMA DE APOIO HABITACIONAL AOS MILITARES                                                                            
+1999,4,PROCESSO JUDICIARIO
+1999,7,ADMINISTRACAO
+1999,8,ADMINISTRACAO FINANCEIRA
+1999,9,PLANEJAMENTO GOVERNAMENTAL
+1999,17,PRESERVACAO DE RECURSOS NATURAIS   RENOVAVEIS
+1999,76,SANEAMENTO
+1999,88,TRANSPORTE RODOVIARIO
+1999,99,RESERVA DE CONTINGENCIA
+2000,1,APOIO A ADMINISTRACAO PUBLICA
+2000,1,APOIO A ADMINISTRACAO PUBLICA                                                                                           
+2000,10,ADMINISTRACAO PUBLICA ESTADUAL
+2000,50,IMPLEMENTACAO DO PLANO SETORIAL DE INFORMATIZACAO
+2000,99,EDIFICACOES PUBLICAS
+2000,133,PROCESSO JUDICIARIO
+2000,208,SISTEMA DE TRIBUTACAO E            ADMINISTRACAO TRIBUTARIA
+2000,208,SISTEMA DE TRIBUTACAO E ADMINISTRACAO TRIBUTARIA                                                                        
+2000,210,MODERNIZACAO DA FAZENDA ESTADUAL                                                                                        
+2000,210,SUPERVISAO E COORDENACAO SUPERIOR
+2000,305,PROMOCAO DE DEFESA CIVIL
+2000,326,GERENCIAMENTO DAS ATIVIDADES DE FISCALIZACAO E DE TRIBUTACAO ESTADUAL                                                   
+2000,339,APOIO AS ACOES DE ASSISTENCIA      SOCIAL AO PORTADOR DE DEFICIENCIA
+2000,341,APOIO AS ACOES DE ASSIST.SOCIAL A  CRIANCA E AO ADOLESCENTE
+2000,401,PROMOCAO E EXECUCAO DAS ACOES DE   SAUDE COLETIVA
+2000,404,"ABASTECIMENTO DE MEDICAMENTOS,     IMUNOBIOLOGICOS E HEMODERIVADOS"
+2000,407,FORMACAO E TREINAMENTO DE PESSOAL  ESPECIALIZADO
+2000,408,ASSISTENCIA HOSPITALAR E           AMBULATORIAL
+2000,409,PROG.DE ASSISTENCIA HEMOTERAPICA E HEMATOLOGICA
+2000,442,"ASSIST.AO ASSOCIATIVISMO,          COOPERATIV.E DESENV.COMUNITARIO"
+2000,474,ASSISTENCIA JUDICIAL
+2000,475,CUSTODIA E ASSISTENCIA AO INDIVIDUO PRIVADO DE LIBERDADE
+2000,476,FORMACAO PARA O EXERCICIO DA       CIDADANIA
+2000,502,UNIVERSALIZACAO DO ENSINO          FUNDAMENTAL
+2000,504,ATENDIMENTO AO ENSINO PROFISSIONAL
+2000,513,DESENVOLVIMENTO DO ENSINO SUPERIOR
+2000,545,"PROMOCAO, PRODUCAO E DIFUSAO       CULTURAL"
+2000,602,"PLANEJAMENTO,COORD.E ACOMPANHAMENTO DE PROJETOS HABITACIONAIS"
+2000,647,PROTECAO A FLORA E A FAUNA
+2000,663,NORMALIZACAO E QUALIDADE DA  ATIVIDADE EMPRESARIAL                                                                      
+2000,736,PROGRAMA DE APOIO HABITACIONAL AOS MILITARES                                                                            
+2000,764,PRODUCAO DE SERVICOS GRAFICOS
+2000,777,OBRIGACOES ESPECIAIS
+2000,781,DIVULGACAO OFICIAL
+2000,783,PROMOCAO DA RADIODIFUSAO
+2000,833,CONSTRUCAO E PAVIMENTACAO DE       RODOVIAS
+2000,834,CONSERVACAO DE RODOVIAS
+2000,839,SANEAMENTO AMBIENTAL DAS BACIAS DO RIBEIRAO ARRUDAS E DO ONCA
+2000,842,SANEAMENTO GERAL
+2000,999,RESERVA DE CONTINGENCIA
+2001,1,APOIO A ADMINISTRACAO PUBLICA
+2001,1,APOIO A ADMINISTRACAO PUBLICA                                                                                           
+2001,10,ADMINISTRACAO PUBLICA ESTADUAL
+2001,50,IMPLEMENTACAO DO PLANO SETORIAL DE INFORMATIZACAO
+2001,99,EDIFICACOES PUBLICAS
+2001,133,PROCESSO JUDICIARIO
+2001,134,ESCOLA JUDICIAL
+2001,135,CORREICAO E ORIENTACAO
+2001,136,REPRESENTACAO JURIDICA DO ESTADO
+2001,201,SISTEMA CENTRAL DE PLANEJAMENTO E  ORCAMENTO DO ESTADO
+2001,202,NEGOCIACAO E COORDENACAO DE        PROGRAMAS ESPECIAIS E REGIONAIS
+2001,205,PROGRAMA DE REESTRUTURACAO E       MODERNIZACAO DA SEF
+2001,206,SISTEMA CENTRAL DE ADMINISTRACAO   FINANCEIRA
+2001,207,SISTEMA CENTRAL DE CONTROLE        OPERACIONAL
+2001,208,SISTEMA DE TRIBUTACAO E            ADMINISTRACAO TRIBUTARIA
+2001,210,MODERNIZACAO DA FAZENDA ESTADUAL                                                                                        
+2001,210,SUPERVISAO E COORDENACAO SUPERIOR
+2001,213,ESTUDOS ECONOMICOS E SOCIAIS
+2001,214,ESTUDOS MUNICIPAIS E METROPOLITANOS
+2001,215,ESTUDOS ADMINISTRATIVOS E          CONSULTORIA ORGANIZACIONAL
+2001,216,SERVICOS DE ESTATISTICA E          INFORMACOES
+2001,217,TREINAMENTO DE RECURSOS HUMANOS
+2001,234,PROG.PILOTO DE APOIO A REFORMA     AGRARIA - PARATERRA
+2001,301,SERVICOS ESPECIAIS DE SEGURANCA
+2001,302,POLICIA OSTENSIVA
+2001,303,SERVICOS TECNICOS DE SEGURANCA
+2001,304,CONTROLE E SEGURANCA DE TRANSITO
+2001,305,PROMOCAO DE DEFESA CIVIL
+2001,331,ASSISTENCIA SOCIAL GERAL
+2001,332,PROMOCAO DE ASSISTENCIA SOCIAL
+2001,333,ASSISTENCIA SOCIAL A PESSOA        PORTADORA DE DEFICIENCIA
+2001,334,ASSISTENCIA SOCIAL A CRIANCA E AO  ADOLESCENTE
+2001,336,ASSISTENCIA SOCIAL AO IDOSO
+2001,343,ASSISTENCIA SOCIAL COMUNITARIA
+2001,363,ASSISTENCIA PREVIDENCIARIA
+2001,364,ASSISTENCIA PREVIDENCIARIA A       SAUDE
+2001,365,ASSISTENCIA COMPLEMENTAR AO        SEGURADO
+2001,366,ASSISTENCIA PREVIDENCIARIA E       SECURITARIA
+2001,367,ATENCAO A SAUDE DO SEGURADO
+2001,401,PROMOCAO E EXECUCAO DAS ACOES DE   SAUDE COLETIVA
+2001,402,PRODUCAO DE SERVICOS LABORATORIAIS
+2001,403,PROMOCAO E CONTROLE DA QUALIDADE
+2001,404,"ABASTECIMENTO DE MEDICAMENTOS,     IMUNOBIOLOGICOS E HEMODERIVADOS"
+2001,406,PRODUCAO DE CONHECIMENTO CIENTIFICO
+2001,407,FORMACAO E TREINAMENTO DE PESSOAL  ESPECIALIZADO
+2001,408,ASSISTENCIA HOSPITALAR E           AMBULATORIAL
+2001,409,PROG.DE ASSISTENCIA HEMOTERAPICA E HEMATOLOGICA
+2001,410,GERENCIAMENTO DA REDE HOSPITALAR E AMBULATORIAL
+2001,411,ASSISTENCIA MEDICA E ODONTOLOGICA
+2001,412,ATENDIMENTO HOSPITALAR E           AMBULATORIAL GERAL
+2001,442,"ASSIST.AO ASSOCIATIVISMO,          COOPERATIV.E DESENV.COMUNITARIO"
+2001,444,INTERMEDIACAO DE EMPREGOS
+2001,446,QUALIFICACAO PROFISSIONAL
+2001,471,CUSTODIA E ASSISTENCIA A DETENTOS
+2001,472,EXERCICIO DA POLICIA JUDICIARIA
+2001,473,ATENCAO INTEGRAL A CRIANCA E AO    ADOLESCENTE
+2001,474,ASSISTENCIA JUDICIAL
+2001,475,CUSTODIA E ASSISTENCIA AO INDIVIDUO PRIVADO DE LIBERDADE
+2001,476,FORMACAO PARA O EXERCICIO DA       CIDADANIA
+2001,477,PROMOCAO E DEFESA DOS DIREITOS     HUMANOS
+2001,480,OUVIDORIA DA POLICIA
+2001,501,PROGRAMA DE ALIMENTACAO ESCOLAR
+2001,502,UNIVERSALIZACAO DO ENSINO          FUNDAMENTAL
+2001,503,ATENDIMENTO AO ENSINO MEDIO
+2001,504,ATENDIMENTO AO ENSINO PROFISSIONAL
+2001,506,ATENDIMENTO AOS JOVENS E ADULTOS
+2001,507,ATENDIMENTO A EDUCACAO ESPECIAL
+2001,508,ATENDIMENTO AO ENSINO SUPERIOR
+2001,509,DESENVOLVIMENTO DE RECURSOS        HUMANOS
+2001,513,DESENVOLVIMENTO DO ENSINO SUPERIOR
+2001,514,CAPACITACAO PROFISSIONAL
+2001,541,ACAO ARQUIVISTICA
+2001,542,ACAO MUSEOLOGICA
+2001,543,ACAO BIBLIOTECARIA
+2001,544,"PROMOCAO, PRODUCAO E DIFUSAO       LITERARIA"
+2001,545,"PROMOCAO, PRODUCAO E DIFUSAO       CULTURAL"
+2001,546,FORMACAO DE RECURSOS HUMANOS PARA A AREA CULTURAL
+2001,547,PROTECAO E PRESERVACAO DO          PATRIMONIO CULTURAL
+2001,548,RADIODIFUSAO
+2001,550,ESTUDOS HISTORICOS E CULTURAIS
+2001,601,"PLANEJAMENTO,COORD.E ACOMPANHAMENTO DE PROJETOS HABITACIONAIS URBANOS"
+2001,641,PROTECAO AMBIENTAL
+2001,643,APOIO AO SANEAMENTO AMBIENTAL
+2001,644,CONTROLE E PROTECAO DA QUALIDADE   AMBIENTAL
+2001,647,PROTECAO A FLORA E A FAUNA
+2001,648,ESTUDOS E PESQUISAS HIDROLOGICOS
+2001,661,DESENVOLVIMENTO CIENTIFICO E       TECNOLOGICO
+2001,662,FOMENTO E APOIO A CIENCIA E        TECNOLOGIA
+2001,663,NORMALIZACAO E QUALIDADE DA        ATIVIDADE EMPRESARIAL
+2001,664,INFORMACOES TECNOLOGICAS
+2001,665,PESQUISAS E SERVICOS TECNOLOGICOS
+2001,666,ORDENAMENTO TERRITORIAL
+2001,667,DESENVOLVIMENTO DO CONHECIMENTO DAS GEOCIENCIAS
+2001,701,PROGRAMA DE DESENVOLVIMENTO DO     MEIO RURAL
+2001,705,"PROMOCOES, EVENTOS AGROPECUARIOS E EDUCACAO SANITARIA"
+2001,706,DEFESA SANITARIA VEGETAL E         ANALISE LABORATORIAL
+2001,708,"ERRADICACAO, CONTROLE E PREVENCAO  DE DOENCA DOS ANIMAIS"
+2001,710,INSPECAO E FISCALIZACAO DE PRODUTOS DE ORIGEM ANIMAL
+2001,711,FISCALIZACAO DO COMERCIO E DO USO  DE AGROTOXICOS
+2001,712,DESENVOLVIMENTO DA AGRICULTURA     IRRIGADA
+2001,713,APOIO AS ATIVIDADES DIRETAMENTE    PRODUTIVAS
+2001,716,PROGRAMA ESTADUAL DE REFORMA       AGRARIA
+2001,723,PROG.DE DESENVOLVIMENTO REGIONAL   JAIBA/MORRO SOLTO - JAIBA II
+2001,762,PROMOCAO DO DESENVOLVIMENTO DO     TURISMO
+2001,763,PROMOCAO DO REGISTRO DO COMERCIO
+2001,764,PRODUCAO DE SERVICOS GRAFICOS
+2001,765,COMERCIALIZACAO GRAFICA
+2001,767,EXPLORACAO DE LOTERIAS
+2001,777,OBRIGACOES ESPECIAIS
+2001,781,DIVULGACAO OFICIAL
+2001,783,PROMOCAO DA RADIODIFUSAO
+2001,785,PLANEJAMENTO E CONSULTORIA TECNICA AO SISTEMA DE TELECOMUNICACOES
+2001,807,REGULACAO E FISCALIZACAO ENERGETICA
+2001,808,DIVERSIFICACAO DA MATRIZ ENERGETICA ESTADUAL
+2001,811,INFORMACOES MINERAIS
+2001,823,REGULACAO E FISCALIZACAO MINERAL
+2001,831,PROGRAMA DE INFRA-ESTRUTURA URBANA
+2001,832,CONTROLE E SEGURANCA DO TRAFEGO    RODOVIARIO
+2001,833,CONSTRUCAO E PAVIMENTACAO DE       RODOVIAS
+2001,834,CONSERVACAO DE RODOVIAS
+2001,835,RESTAURACAO DE RODOVIAS
+2001,839,SANEAMENTO AMBIENTAL DAS BACIAS DO RIBEIRAO ARRUDAS E DO ONCA
+2001,842,SANEAMENTO GERAL
+2001,871,IMPLEMENTACAO DA POLITICA DE       DESPORTO E LAZER
+2001,874,ADMINISTRACAO DE ESTADIOS
+2001,999,RESERVA DE CONTINGENCIA
 2002,1,APOIO A ADMINISTRACAO PUBLICA                                                                                           
 2002,10,ADMINISTRACAO PUBLICA ESTADUAL                                                                                          
 2002,50,IMPLEMENTACAO DO PLANO SETORIAL DE INFORMATIZACAO                                                                       
@@ -18,12 +210,14 @@ ano,programa_cod,programa_desc
 2002,207,SISTEMA CENTRAL DE CONTROLE  OPERACIONAL                                                                                
 2002,208,SISTEMA DE TRIBUTACAO E ADMINISTRACAO TRIBUTARIA                                                                        
 2002,210,SUPERVISAO E COORDENACAO SUPERIOR                                                                                       
+2002,212,APORTE DE CAPITAL                                                                                                       
 2002,213,ESTUDOS ECONOMICOS E SOCIAIS                                                                                            
 2002,214,ESTUDOS MUNICIPAIS E METROPOLITANOS                                                                                     
 2002,215,ESTUDOS ADMINISTRATIVOS E CONSULTORIA ORGANIZACIONAL                                                                    
 2002,216,SERVICOS DE ESTATISTICA E INFORMACOES                                                                                   
 2002,217,TREINAMENTO DE RECURSOS HUMANOS                                                                                         
 2002,218,PROMOCAO DO DESENVOLVIMENTO MUNICIPAL                                                                                   
+2002,219,APOIO A MODERNIZACAO DA ESTRUTURA  ORGÂNICA DOS MUNICIPIOS-SOMMA                                                        
 2002,226,FORTALECIMENTO DA INFRA-ESTRUTURA  HIDRICA DO NORTE E VALE DO JEQUITINHONHA                                             
 2002,229,CONSELHO DE SEGURANCA ALIMENTAR DE MINAS GERAIS - CONSEA-MG                                                             
 2002,234,PROGRAMA PILOTO DE APOIO A REFORMA AGRARIA - PARATERRA                                                                  
@@ -37,6 +231,7 @@ ano,programa_cod,programa_desc
 2002,333,ASSISTENCIA SOCIAL A PESSOA  PORTADORA DE DEFICIENCIA                                                                   
 2002,334,ASSISTENCIA SOCIAL A CRIANCA E AO  ADOLESCENTE                                                                          
 2002,336,ASSISTENCIA SOCIAL AO IDOSO                                                                                             
+2002,337,PROGRAMA DE MOBILIZACAO DE COMUNIDADES                                                                                  
 2002,343,ASSISTENCIA SOCIAL COMUNITARIA                                                                                          
 2002,362,PREVIDENCIA SOCIAL A SEGURADOS                                                                                          
 2002,363,ASSISTENCIA PREVIDENCIARIA                                                                                              
@@ -69,6 +264,7 @@ ano,programa_cod,programa_desc
 2002,475,CUSTODIA E ASSISTENCIA AO INDIVIDUO PRIVADO DE LIBERDADE                                                                
 2002,476,FORMACAO PARA O EXERCICIO DA  CIDADANIA                                                                                 
 2002,477,PROMOCAO E DEFESA DOS DIREITOS  HUMANOS                                                                                 
+2002,479,PREVENCAO AO USO DE ENTORPECENTES                                                                                       
 2002,480,OUVIDORIA DA POLICIA                                                                                                    
 2002,501,PROGRAMA DE ALIMENTACAO ESCOLAR                                                                                         
 2002,502,UNIVERSALIZACAO DO ENSINO FUNDAMENTAL                                                                                   
@@ -78,6 +274,8 @@ ano,programa_cod,programa_desc
 2002,506,ATENDIMENTO AOS JOVENS E ADULTOS                                                                                        
 2002,507,ATENDIMENTO A EDUCACAO ESPECIAL                                                                                         
 2002,508,ATENDIMENTO AO ENSINO SUPERIOR                                                                                          
+2002,510,ENSINO TECNICO EM LEITE E DERIVADOS                                                                                     
+2002,511,ENSINO TECNICO EM AGROPECUARIA E COOPERATIVISMO                                                                         
 2002,513,DESENVOLVIMENTO DO ENSINO SUPERIOR                                                                                      
 2002,514,CAPACITACAO PROFISSIONAL                                                                                                
 2002,541,ACAO ARQUIVISTICA                                                                                                       
@@ -90,15 +288,19 @@ ano,programa_cod,programa_desc
 2002,548,RADIODIFUSAO                                                                                                            
 2002,550,ESTUDOS HISTORICOS E CULTURAIS                                                                                          
 2002,551,PRESERVACAO DO PATRIMONIO CULTURAL                                                                                      
+2002,571,PLANEJAMENTO URBANO                                                                                                     
 2002,601,"PLANEJAMENTO, COORDENACAO E ACOMPANHAMENTO DE PROJETOS HABITACIONAIS URBANOS                                            "
 2002,603,APOIO HABITACIONAL                                                                                                      
 2002,641,PROTECAO AMBIENTAL                                                                                                      
+2002,642,SISTEMA PUBLICO DE INFORMACOES  AMBIENTAIS                                                                              
 2002,643,APOIO AO SANEAMENTO AMBIENTAL                                                                                           
 2002,644,CONTROLE E PROTECAO DA QUALIDADE AMBIENTAL                                                                              
 2002,645,MONITORAMENTO AMBIENTAL                                                                                                 
 2002,647,PROTECAO A FLORA E A FAUNA                                                                                              
 2002,648,ESTUDOS E PESQUISAS HIDROLOGICOS                                                                                        
+2002,650,OUVIDORIA AMBIENTAL                                                                                                     
 2002,651,PROGRAMA PRO-FLORESTA                                                                                                   
+2002,652,RECUPERACAO DE BACIAS HIDROGRAFICAS                                                                                     
 2002,661,DESENVOLVIMENTO CIENTIFICO E  TECNOLOGICO                                                                               
 2002,662,FOMENTO E APOIO A CIENCIA E  TECNOLOGIA                                                                                 
 2002,663,NORMALIZACAO E QUALIDADE DA  ATIVIDADE EMPRESARIAL                                                                      
@@ -107,6 +309,8 @@ ano,programa_cod,programa_desc
 2002,666,ORDENAMENTO TERRITORIAL                                                                                                 
 2002,667,DESENVOLVIMENTO DO CONHECIMENTO DAS GEOCIENCIAS                                                                         
 2002,701,PROGRAMA DE DESENVOLVIMENTO DO MEIO RURAL                                                                               
+2002,703,GERACAO DE CONHECIMENTO E  TECNOLOGIA AGROPECUARIA                                                                      
+2002,704,ACAO DE DESENVOLVIMENTO DE PROJETOS INTEGRADOS                                                                          
 2002,705,"PROMOCAO, EVENTOS AGROPECUARIOS E EDUCACAO SANITARIA                                                                    "
 2002,706,DEFESA SANITARIA VEGETAL E ANALISE LABORATORIAL                                                                         
 2002,708,"ERRADICACAO, CONTROLE E PREVENCAO  DE DOENCA DOS ANIMAIS                                                                "
@@ -118,7 +322,9 @@ ano,programa_cod,programa_desc
 2002,715,PROGRAMA DE DESENVOLVIMENTO  REGIONAL DO JAIBA                                                                          
 2002,716,PROGRAMA ESTADUAL DE REFORMA  AGRARIA                                                                                   
 2002,719,PROMOCAO E EXTENSAO RURAL                                                                                               
+2002,720,ASSISTENCIA TECNICA E EXTENSAO RURAL                                                                                    
 2002,723,PROGRAMA DE DESENVOLVIMENTO REGIONAL JAIBA/MORRO SOLTO - JAIBA II                                                       
+2002,724,PROGRAMA DE DESENVOLVIMENTO  INTEGRADO DO JAIBA - JAIBA I                                                               
 2002,741,PROMOCAO DO DESENVOLVIMENTO  INDUSTRIAL                                                                                 
 2002,742,"FORMACAO TECNICA PARA OS SETORES DA INDUSTRIA, COMERCIO E SERVICOS                                                      "
 2002,744,FORMACAO PEDAGOGICA PARA DOCENTES                                                                                       
@@ -129,12 +335,19 @@ ano,programa_cod,programa_desc
 2002,763,PROMOCAO DO REGISTRO DO COMERCIO                                                                                        
 2002,764,PRODUCAO DE SERVICOS GRAFICOS                                                                                           
 2002,765,COMERCIALIZACAO GRAFICA                                                                                                 
+2002,766,PROMOCAO DO TURISMO                                                                                                     
 2002,767,EXPLORACAO DE LOTERIAS                                                                                                  
+2002,768,PROGRAMA DE ACAO PARA O DESENVOLVIMENTO DO TURISMO NAS REGIOES NORTE E NORDESTE DE MINAS GERAIS - PR                    
 2002,777,OBRIGACOES ESPECIAIS                                                                                                    
 2002,781,DIVULGACAO OFICIAL                                                                                                      
 2002,782,PROMOCAO DA TELEFONIA RURAL                                                                                             
 2002,783,PROMOCAO DA RADIODIFUSAO                                                                                                
+2002,784,ADEQUACAO DO SISTEMA DE RADIODIFUSAO                                                                                    
+2002,806,ENERGIA HIDRAULICA                                                                                                      
 2002,807,REGULACAO E FISCALIZACAO ENERGETICA                                                                                     
+2002,808,DIVERSIFICACAO DA MATRIZ ENERGETICA ESTADUAL                                                                            
+2002,809,"MINERACAO, ENERGIA E DESENVOLVIMENTO SUSTENTAVEL                                                                        "
+2002,810,DESENVOLVIMENTO MINERAL                                                                                                 
 2002,811,INFORMACOES MINERAIS                                                                                                    
 2002,823,REGULACAO E FISCALIZACAO MINERAL                                                                                        
 2002,831,PROGRAMA DE INFRA-ESTRUTURA URBANA                                                                                      
@@ -143,10 +356,12 @@ ano,programa_cod,programa_desc
 2002,834,CONSERVACAO DE RODOVIAS                                                                                                 
 2002,835,RESTAURACAO DE RODOVIAS                                                                                                 
 2002,839,SANEAMENTO AMBIENTAL DAS BACIAS DO RIBEIRAO ARRUDAS E DO ONCA                                                           
+2002,840,GERENCIAMENTO TECNICO DE OBRAS                                                                                          
 2002,842,SANEAMENTO GERAL                                                                                                        
 2002,843,VIAS URBANAS                                                                                                            
 2002,871,IMPLEMENTACAO DA POLITICA DE DESPORTO E LAZER                                                                           
 2002,874,ADMINISTRACAO DE ESTADIOS                                                                                               
+2002,999,RESERVA DE CONTINGENCIA                                                                                                 
 2003,1,APOIO A ADMINISTRACAO PUBLICA                                                                                           
 2003,10,ADMINISTRACAO PUBLICA ESTADUAL                                                                                          
 2003,50,IMPLEMENTACAO DO PLANO SETORIAL DE INFORMATIZACAO                                                                       

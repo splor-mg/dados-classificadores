@@ -1,4 +1,77 @@
 ano,funcao_cod,funcao_desc
+1995,4,AGRICULTURA
+1995,99,RESERVA DE CONTINGENCIA
+1996,3,ADMINISTRACAO E PLANEJAMENTO
+1996,16,TRANSPORTE
+1996,99,RESERVA DE CONTINGENCIA
+1997,3,ADMINISTRACAO E PLANEJAMENTO
+1997,16,TRANSPORTE
+1997,99,RESERVA DE CONTINGENCIA
+1998,3,ADMINISTRACAO E PLANEJAMENTO
+1998,8,EDUCACAO E CULTURA
+1998,11,"INDUSTRIA, COMERCIO E SERVICOS"
+1998,13,SAUDE E SANEAMENTO
+1998,16,HABITACAO                                                             
+1998,16,TRANSPORTE
+1998,99,RESERVA DE CONTINGENCIA
+1999,2,JUDICIARIA
+1999,3,ADMINISTRACAO E PLANEJAMENTO
+1999,8,EDUCACAO E CULTURA
+1999,11,"INDUSTRIA, COMERCIO E SERVICOS"
+1999,13,SAUDE E SANEAMENTO
+1999,16,TRANSPORTE
+1999,99,RESERVA DE CONTINGENCIA
+2000,2,JUDICIARIA
+2000,3,ESSENCIAL A JUSTICA
+2000,4,ADMINISTRACAO
+2000,4,ADMINISTRACAO                                                         
+2000,6,SEGURANCA PUBLICA
+2000,8,ASSISTENCIA SOCIAL
+2000,10,SAUDE
+2000,11,TRABALHO
+2000,12,EDUCACAO
+2000,13,CULTURA
+2000,14,DIREITOS DA CIDADANIA
+2000,16,HABITACAO
+2000,16,HABITACAO                                                             
+2000,17,SANEAMENTO
+2000,18,GESTAO AMBIENTAL
+2000,19,CIENCIA E TECNOLOGIA
+2000,19,CIENCIA E TECNOLOGIA                                                  
+2000,22,INDUSTRIA
+2000,23,COMERCIO E SERVICOS
+2000,24,COMUNICACOES
+2000,25,ENERGIA
+2000,26,TRANSPORTE
+2000,28,ENCARGOS ESPECIAIS
+2000,99,RESERVA DE CONTINGENCIA
+2001,1,LEGISLATIVA
+2001,2,JUDICIARIA
+2001,3,ESSENCIAL A JUSTICA
+2001,4,ADMINISTRACAO
+2001,4,ADMINISTRACAO                                                         
+2001,6,SEGURANCA PUBLICA
+2001,8,ASSISTENCIA SOCIAL
+2001,9,PREVIDENCIA SOCIAL
+2001,10,SAUDE
+2001,11,TRABALHO
+2001,12,EDUCACAO
+2001,13,CULTURA
+2001,14,DIREITOS DA CIDADANIA
+2001,16,HABITACAO
+2001,17,SANEAMENTO
+2001,18,GESTAO AMBIENTAL
+2001,19,CIENCIA E TECNOLOGIA
+2001,20,AGRICULTURA
+2001,21,ORGANIZACAO AGRARIA
+2001,22,INDUSTRIA
+2001,23,COMERCIO E SERVICOS
+2001,24,COMUNICACOES
+2001,25,ENERGIA
+2001,26,TRANSPORTE
+2001,27,DESPORTO E LAZER
+2001,28,ENCARGOS ESPECIAIS
+2001,99,RESERVA DE CONTINGENCIA
 2002,1,LEGISLATIVA                                                           
 2002,2,JUDICIARIA                                                            
 2002,3,ESSENCIAL A JUSTICA                                                   
@@ -11,6 +84,7 @@ ano,funcao_cod,funcao_desc
 2002,12,EDUCACAO                                                              
 2002,13,CULTURA                                                               
 2002,14,DIREITOS DA CIDADANIA                                                 
+2002,15,URBANISMO                                                             
 2002,16,HABITACAO                                                             
 2002,17,SANEAMENTO                                                            
 2002,18,GESTAO AMBIENTAL                                                      
@@ -24,6 +98,7 @@ ano,funcao_cod,funcao_desc
 2002,26,TRANSPORTE                                                            
 2002,27,DESPORTO E LAZER                                                      
 2002,28,ENCARGOS ESPECIAIS                                                    
+2002,99,RESERVA DE CONTINGENCIA                                               
 2003,1,LEGISLATIVA                                                           
 2003,2,JUDICIARIA                                                            
 2003,3,ESSENCIAL A JUSTICA                                                   
