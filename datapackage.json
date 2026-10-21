@@ -168,8 +168,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:a6490f2fbf5c59b6592c0eba7e223d13467c1c3af96957bb53483f41fa2ebf18",
-      "bytes": 74626,
+      "hash": "sha256:29c6eb39766a15049d439df767415c1a1f1e3255557f3b93b4cb1d8ce7885b9a",
+      "bytes": 74627,
       "fields": 3,
       "rows": 1266,
       "dialect": {
@@ -219,8 +219,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:a9d02cdf98b1b64681389e4a8d8940ed1ce4dbe9eadf4cc1cd1c7d21a60646bf",
-      "bytes": 35539,
+      "hash": "sha256:a4aa2354f375c33c1252bc5a3c0b3ca260d89e80e847f845a77e6c1819f6f211",
+      "bytes": 17997,
       "fields": 3,
       "rows": 764,
       "dialect": {
@@ -322,6 +322,56 @@
             "type": "string",
             "title": "Categoria Econômica Despesa - Desc",
             "description": "Descrição da categoria econômica da despesa.\n",
+            "constraints": {
+              "maxLength": 500
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "iag",
+      "type": "table",
+      "path": "data/iag.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:76dea0fc83f7741b128114ae5ae8a7d9585bb7a6c56c01371b01a47b020a2792",
+      "bytes": 1965,
+      "fields": 3,
+      "rows": 68,
+      "dialect": {
+        "csv": {
+          "delimiter": ","
+        }
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "string",
+            "title": "Ano de Exercício",
+            "description": "Ano de exercício do orçamento fiscal.\n",
+            "constraints": {
+              "required": true,
+              "pattern": "^[1-2]\\d{3}$"
+            }
+          },
+          {
+            "name": "iag_cod",
+            "type": "string",
+            "title": "Identificador Orçamento - Código",
+            "description": "Código do identificador do orçamento conforme o SIAFI-MG.\n",
+            "constraints": {
+              "pattern": "^[0-7]$"
+            }
+          },
+          {
+            "name": "iag_desc",
+            "type": "string",
+            "title": "Identificador Orçamento - Descrição",
+            "description": ".\n",
             "constraints": {
               "maxLength": 500
             }
@@ -441,8 +491,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:c7556576d317df9c841d8ec51fc4640f3c99bf25e0ada7ddf13e73256cf99047",
-      "bytes": 475189,
+      "hash": "sha256:9dc50f589ebe7931e463d127623644b9d2ad75308141db09a7735659adf7d644",
+      "bytes": 270826,
       "fields": 3,
       "rows": 5257,
       "dialect": {
@@ -542,8 +592,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:c44be615d870683fabaf1148cc364e5b9295c0990662e5743e99685cc8e4e149",
-      "bytes": 120370,
+      "hash": "sha256:5beffab82db2e5c88b20c215c002c8b54cea513bf974abdfa312b27f0721fea2",
+      "bytes": 75818,
       "fields": 3,
       "rows": 2251,
       "dialect": {
@@ -646,5 +696,5 @@
     }
   ],
   "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
-  "updated_at": "2026-10-20T08:09:48"
+  "updated_at": "2026-10-21T10:18:59"
 }

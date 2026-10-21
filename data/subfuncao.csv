@@ -3,27 +3,27 @@ ano,subfuncao_cod,subfuncao_desc
 1996,0,SEM SUBFUNCAO
 1997,0,SEM SUBFUNCAO
 1998,0,SEM SUBFUNCAO
-1998,482,HABITACAO URBANA                                                      
+1998,482,HABITACAO URBANA
 1999,0,SEM SUBFUNCAO
 2000,0,SEM SUBFUNCAO
-2000,122,ADMINISTRACAO GERAL                                                   
-2000,129,ADMINISTRACAO DE RECEITAS                                             
-2000,482,HABITACAO URBANA                                                      
-2000,665,NORMALIZACAO E QUALIDADE                                              
+2000,122,ADMINISTRACAO GERAL
+2000,129,ADMINISTRACAO DE RECEITAS
+2000,482,HABITACAO URBANA
+2000,665,NORMALIZACAO E QUALIDADE
 2000,999,RESERVA DE CONTINGENCIA
 2001,61,ACAO JUDICIARIA
 2001,62,DEFESA DO INTERESSE PUBLICO NO     PROCESSO JUDICIARIO
 2001,92,REPRESENTACAO JUDICIAL E           EXTRAJUDICIAL
 2001,121,PLANEJAMENTO E ORCAMENTO
 2001,122,ADMINISTRACAO GERAL
-2001,122,ADMINISTRACAO GERAL                                                   
+2001,122,ADMINISTRACAO GERAL
 2001,123,ADMINISTRACAO FINANCEIRA
 2001,124,CONTROLE INTERNO
 2001,125,NORMATIZACAO E FISCALIZACAO
 2001,127,ORDENAMENTO TERRITORIAL
 2001,128,FORMACAO DE RECURSOS HUMANOS
 2001,129,ADMINISTRACAO DE RECEITAS
-2001,129,ADMINISTRACAO DE RECEITAS                                             
+2001,129,ADMINISTRACAO DE RECEITAS
 2001,131,COMUNICACAO SOCIAL
 2001,181,POLICIAMENTO
 2001,182,DEFESA CIVIL
@@ -78,941 +78,941 @@ ano,subfuncao_cod,subfuncao_desc
 2001,845,TRANSFERENCIAS
 2001,846,OUTROS ENCARGOS ESPECIAIS
 2001,999,RESERVA DE CONTINGENCIA
-2002,31,ACAO LEGISLATIVA                                                      
-2002,32,CONTROLE EXTERNO                                                      
-2002,61,ACAO JUDICIARIA                                                       
-2002,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2002,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2002,121,PLANEJAMENTO E ORCAMENTO                                              
-2002,122,ADMINISTRACAO GERAL                                                   
-2002,123,ADMINISTRACAO FINANCEIRA                                              
-2002,124,CONTROLE INTERNO                                                      
-2002,125,NORMATIZACAO E FISCALIZACAO                                           
-2002,126,TECNOLOGIA DA INFORMACAO                                              
-2002,127,ORDENAMENTO TERRITORIAL                                               
-2002,128,FORMACAO DE RECURSOS HUMANOS                                          
-2002,129,ADMINISTRACAO DE RECEITAS                                             
-2002,131,COMUNICACAO SOCIAL                                                    
-2002,181,POLICIAMENTO                                                          
-2002,182,DEFESA CIVIL                                                          
-2002,241,ASSISTENCIA AO IDOSO                                                  
-2002,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2002,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2002,244,ASSISTENCIA COMUNITARIA                                               
-2002,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2002,274,PREVIDENCIA ESPECIAL                                                  
-2002,301,ATENCAO BASICA                                                        
-2002,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2002,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2002,304,VIGILÂNCIA SANITARIA                                                  
-2002,305,VIGILÂNCIA EPIDEMIOLOGICA                                             
-2002,306,ALIMENTACAO E NUTRICAO                                                
-2002,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2002,332,RELACOES DE TRABALHO                                                  
-2002,333,EMPREGABILIDADE                                                       
-2002,361,ENSINO FUNDAMENTAL                                                    
-2002,362,ENSINO MEDIO                                                          
-2002,363,ENSINO PROFISSIONAL                                                   
-2002,364,ENSINO SUPERIOR                                                       
-2002,365,EDUCACAO INFANTIL                                                     
-2002,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2002,367,EDUCACAO ESPECIAL                                                     
-2002,391,"PATRIMÔNIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2002,392,DIFUSAO CULTURAL                                                      
-2002,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2002,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2002,451,INFRA-ESTRUTURA URBANA                                                
-2002,482,HABITACAO URBANA                                                      
-2002,512,SANEAMENTO BASICO URBANO                                              
-2002,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2002,542,CONTROLE AMBIENTAL                                                    
-2002,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2002,544,RECURSOS HIDRICOS                                                     
-2002,571,DESENVOLVIMENTO CIENTIFICO                                            
-2002,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2002,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2002,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2002,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2002,603,DEFESA SANITARIA VEGETAL                                              
-2002,604,DEFESA SANITARIA ANIMAL                                               
-2002,606,EXTENSAO RURAL                                                        
-2002,607,IRRIGACAO                                                             
-2002,631,REFORMA AGRARIA                                                       
-2002,661,PROMOCAO INDUSTRIAL                                                   
-2002,662,PRODUCAO INDUSTRIAL                                                   
-2002,663,MINERACAO                                                             
-2002,665,NORMALIZACAO E QUALIDADE                                              
-2002,691,PROMOCAO COMERCIAL                                                    
-2002,692,COMERCIALIZACAO                                                       
-2002,694,SERVICOS FINANCEIROS                                                  
-2002,695,TURISMO                                                               
-2002,722,TELECOMUNICACOES                                                      
-2002,752,ENERGIA ELETRICA                                                      
-2002,782,TRANSPORTE RODOVIARIO                                                 
-2002,783,TRANSPORTE FERROVIARIO                                                
-2002,812,DESPORTO COMUNITARIO                                                  
-2002,843,SERVICO DA DIVIDA INTERNA                                             
-2002,844,SERVICO DA DIVIDA EXTERNA                                             
-2002,845,TRANSFERENCIAS                                                        
-2002,846,OUTROS ENCARGOS ESPECIAIS                                             
-2002,999,RESERVA DE CONTINGENCIA                                               
-2003,31,ACAO LEGISLATIVA                                                      
-2003,32,CONTROLE EXTERNO                                                      
-2003,61,ACAO JUDICIARIA                                                       
-2003,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2003,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2003,121,PLANEJAMENTO E ORCAMENTO                                              
-2003,122,ADMINISTRACAO GERAL                                                   
-2003,123,ADMINISTRACAO FINANCEIRA                                              
-2003,124,CONTROLE INTERNO                                                      
-2003,125,NORMATIZACAO E FISCALIZACAO                                           
-2003,126,TECNOLOGIA DA INFORMACAO                                              
-2003,127,ORDENAMENTO TERRITORIAL                                               
-2003,128,FORMACAO DE RECURSOS HUMANOS                                          
-2003,129,ADMINISTRACAO DE RECEITAS                                             
-2003,131,COMUNICACAO SOCIAL                                                    
-2003,181,POLICIAMENTO                                                          
-2003,182,DEFESA CIVIL                                                          
-2003,241,ASSISTENCIA AO IDOSO                                                  
-2003,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2003,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2003,244,ASSISTENCIA COMUNITARIA                                               
-2003,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2003,274,PREVIDENCIA ESPECIAL                                                  
-2003,301,ATENCAO BASICA                                                        
-2003,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2003,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2003,304,VIGILANCIA SANITARIA                                                  
-2003,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2003,306,ALIMENTACAO E NUTRICAO                                                
-2003,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2003,332,RELACOES DE TRABALHO                                                  
-2003,333,EMPREGABILIDADE                                                       
-2003,361,ENSINO FUNDAMENTAL                                                    
-2003,362,ENSINO MEDIO                                                          
-2003,363,ENSINO PROFISSIONAL                                                   
-2003,364,ENSINO SUPERIOR                                                       
-2003,365,EDUCACAO INFANTIL                                                     
-2003,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2003,367,EDUCACAO ESPECIAL                                                     
-2003,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2003,392,DIFUSAO CULTURAL                                                      
-2003,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2003,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2003,451,INFRA-ESTRUTURA URBANA                                                
-2003,482,HABITACAO URBANA                                                      
-2003,512,SANEAMENTO BASICO URBANO                                              
-2003,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2003,542,CONTROLE AMBIENTAL                                                    
-2003,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2003,544,RECURSOS HIDRICOS                                                     
-2003,571,DESENVOLVIMENTO CIENTIFICO                                            
-2003,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2003,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2003,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2003,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2003,603,DEFESA SANITARIA VEGETAL                                              
-2003,604,DEFESA SANITARIA ANIMAL                                               
-2003,606,EXTENSAO RURAL                                                        
-2003,607,IRRIGACAO                                                             
-2003,631,REFORMA AGRARIA                                                       
-2003,661,PROMOCAO INDUSTRIAL                                                   
-2003,662,PRODUCAO INDUSTRIAL                                                   
-2003,663,MINERACAO                                                             
-2003,665,NORMALIZACAO E QUALIDADE                                              
-2003,691,PROMOCAO COMERCIAL                                                    
-2003,692,COMERCIALIZACAO                                                       
-2003,694,SERVICOS FINANCEIROS                                                  
-2003,695,TURISMO                                                               
-2003,722,TELECOMUNICACOES                                                      
-2003,752,ENERGIA ELETRICA                                                      
-2003,782,TRANSPORTE RODOVIARIO                                                 
-2003,783,TRANSPORTE FERROVIARIO                                                
-2003,812,DESPORTO COMUNITARIO                                                  
-2003,843,SERVICO DA DIVIDA INTERNA                                             
-2003,844,SERVICO DA DIVIDA EXTERNA                                             
-2003,845,TRANSFERENCIAS                                                        
-2003,846,OUTROS ENCARGOS ESPECIAIS                                             
-2003,999,RESERVA DE CONTINGENCIA                                               
-2004,31,ACAO LEGISLATIVA                                                      
-2004,32,CONTROLE EXTERNO                                                      
-2004,61,ACAO JUDICIARIA                                                       
-2004,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2004,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2004,121,PLANEJAMENTO E ORCAMENTO                                              
-2004,122,ADMINISTRACAO GERAL                                                   
-2004,123,ADMINISTRACAO FINANCEIRA                                              
-2004,124,CONTROLE INTERNO                                                      
-2004,125,NORMATIZACAO E FISCALIZACAO                                           
-2004,126,TECNOLOGIA DA INFORMACAO                                              
-2004,127,ORDENAMENTO TERRITORIAL                                               
-2004,128,FORMACAO DE RECURSOS HUMANOS                                          
-2004,129,ADMINISTRACAO DE RECEITAS                                             
-2004,131,COMUNICACAO SOCIAL                                                    
-2004,181,POLICIAMENTO                                                          
-2004,182,DEFESA CIVIL                                                          
-2004,183,INFORMACAO E INTELIGENCIA                                             
-2004,241,ASSISTENCIA AO IDOSO                                                  
-2004,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2004,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2004,244,ASSISTENCIA COMUNITARIA                                               
-2004,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2004,274,PREVIDENCIA ESPECIAL                                                  
-2004,301,ATENCAO BASICA                                                        
-2004,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2004,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2004,304,VIGILANCIA SANITARIA                                                  
-2004,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2004,306,ALIMENTACAO E NUTRICAO                                                
-2004,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2004,334,FOMENTO AO TRABALHO                                                   
-2004,361,ENSINO FUNDAMENTAL                                                    
-2004,362,ENSINO MEDIO                                                          
-2004,363,ENSINO PROFISSIONAL                                                   
-2004,364,ENSINO SUPERIOR                                                       
-2004,365,EDUCACAO INFANTIL                                                     
-2004,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2004,367,EDUCACAO ESPECIAL                                                     
-2004,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2004,392,DIFUSAO CULTURAL                                                      
-2004,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2004,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2004,452,SERVICOS URBANOS                                                      
-2004,453,TRANSPORTES COLETIVOS URBANOS                                         
-2004,481,HABITACAO RURAL                                                       
-2004,482,HABITACAO URBANA                                                      
-2004,511,SANEAMENTO BASICO RURAL                                               
-2004,512,SANEAMENTO BASICO URBANO                                              
-2004,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2004,542,CONTROLE AMBIENTAL                                                    
-2004,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2004,544,RECURSOS HIDRICOS                                                     
-2004,571,DESENVOLVIMENTO CIENTIFICO                                            
-2004,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2004,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2004,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2004,603,DEFESA SANITARIA VEGETAL                                              
-2004,606,EXTENSAO RURAL                                                        
-2004,607,IRRIGACAO                                                             
-2004,631,REFORMA AGRARIA                                                       
-2004,661,PROMOCAO INDUSTRIAL                                                   
-2004,662,PRODUCAO INDUSTRIAL                                                   
-2004,663,MINERACAO                                                             
-2004,665,NORMALIZACAO E QUALIDADE                                              
-2004,691,PROMOCAO COMERCIAL                                                    
-2004,692,COMERCIALIZACAO                                                       
-2004,693,COMERCIO EXTERIOR                                                     
-2004,694,SERVICOS FINANCEIROS                                                  
-2004,695,TURISMO                                                               
-2004,722,TELECOMUNICACOES                                                      
-2004,752,ENERGIA ELETRICA                                                      
-2004,781,TRANSPORTE AEREO                                                      
-2004,782,TRANSPORTE RODOVIARIO                                                 
-2004,783,TRANSPORTE FERROVIARIO                                                
-2004,784,TRANSPORTE HIDROVIARIO                                                
-2004,812,DESPORTO COMUNITARIO                                                  
-2004,843,SERVICO DA DIVIDA INTERNA                                             
-2004,844,SERVICO DA DIVIDA EXTERNA                                             
-2004,845,TRANSFERENCIAS                                                        
-2004,846,OUTROS ENCARGOS ESPECIAIS                                             
-2004,999,RESERVA DE CONTINGENCIA                                               
-2005,31,ACAO LEGISLATIVA                                                      
-2005,32,CONTROLE EXTERNO                                                      
-2005,61,ACAO JUDICIARIA                                                       
-2005,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2005,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2005,121,PLANEJAMENTO E ORCAMENTO                                              
-2005,122,ADMINISTRACAO GERAL                                                   
-2005,123,ADMINISTRACAO FINANCEIRA                                              
-2005,124,CONTROLE INTERNO                                                      
-2005,125,NORMATIZACAO E FISCALIZACAO                                           
-2005,126,TECNOLOGIA DA INFORMACAO                                              
-2005,127,ORDENAMENTO TERRITORIAL                                               
-2005,128,FORMACAO DE RECURSOS HUMANOS                                          
-2005,129,ADMINISTRACAO DE RECEITAS                                             
-2005,130,ADMINISTRACAO DE CONCESSOES                                           
-2005,131,COMUNICACAO SOCIAL                                                    
-2005,181,POLICIAMENTO                                                          
-2005,182,DEFESA CIVIL                                                          
-2005,183,INFORMACAO E INTELIGENCIA                                             
-2005,212,COOPERACAO INTERNACIONAL                                              
-2005,241,ASSISTENCIA AO IDOSO                                                  
-2005,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2005,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2005,244,ASSISTENCIA COMUNITARIA                                               
-2005,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2005,274,PREVIDENCIA ESPECIAL                                                  
-2005,301,ATENCAO BASICA                                                        
-2005,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2005,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2005,304,VIGILANCIA SANITARIA                                                  
-2005,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2005,306,ALIMENTACAO E NUTRICAO                                                
-2005,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2005,334,FOMENTO AO TRABALHO                                                   
-2005,361,ENSINO FUNDAMENTAL                                                    
-2005,362,ENSINO MEDIO                                                          
-2005,363,ENSINO PROFISSIONAL                                                   
-2005,364,ENSINO SUPERIOR                                                       
-2005,365,EDUCACAO INFANTIL                                                     
-2005,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2005,367,EDUCACAO ESPECIAL                                                     
-2005,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2005,392,DIFUSAO CULTURAL                                                      
-2005,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2005,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2005,451,INFRA-ESTRUTURA URBANA                                                
-2005,452,SERVICOS URBANOS                                                      
-2005,453,TRANSPORTES COLETIVOS URBANOS                                         
-2005,481,HABITACAO RURAL                                                       
-2005,482,HABITACAO URBANA                                                      
-2005,511,SANEAMENTO BASICO RURAL                                               
-2005,512,SANEAMENTO BASICO URBANO                                              
-2005,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2005,542,CONTROLE AMBIENTAL                                                    
-2005,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2005,544,RECURSOS HIDRICOS                                                     
-2005,571,DESENVOLVIMENTO CIENTIFICO                                            
-2005,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2005,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2005,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2005,603,DEFESA SANITARIA VEGETAL                                              
-2005,605,ABASTECIMENTO                                                         
-2005,606,EXTENSAO RURAL                                                        
-2005,607,IRRIGACAO                                                             
-2005,631,REFORMA AGRARIA                                                       
-2005,661,PROMOCAO INDUSTRIAL                                                   
-2005,662,PRODUCAO INDUSTRIAL                                                   
-2005,663,MINERACAO                                                             
-2005,665,NORMALIZACAO E QUALIDADE                                              
-2005,691,PROMOCAO COMERCIAL                                                    
-2005,692,COMERCIALIZACAO                                                       
-2005,693,COMERCIO EXTERIOR                                                     
-2005,694,SERVICOS FINANCEIROS                                                  
-2005,695,TURISMO                                                               
-2005,722,TELECOMUNICACOES                                                      
-2005,752,ENERGIA ELETRICA                                                      
-2005,781,TRANSPORTE AEREO                                                      
-2005,782,TRANSPORTE RODOVIARIO                                                 
-2005,783,TRANSPORTE FERROVIARIO                                                
-2005,784,TRANSPORTE HIDROVIARIO                                                
-2005,812,DESPORTO COMUNITARIO                                                  
-2005,843,SERVICO DA DIVIDA INTERNA                                             
-2005,844,SERVICO DA DIVIDA EXTERNA                                             
-2005,845,TRANSFERENCIAS                                                        
-2005,846,OUTROS ENCARGOS ESPECIAIS                                             
-2005,999,RESERVA DE CONTINGENCIA                                               
-2006,31,ACAO LEGISLATIVA                                                      
-2006,32,CONTROLE EXTERNO                                                      
-2006,61,ACAO JUDICIARIA                                                       
-2006,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2006,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2006,121,PLANEJAMENTO E ORCAMENTO                                              
-2006,122,ADMINISTRACAO GERAL                                                   
-2006,123,ADMINISTRACAO FINANCEIRA                                              
-2006,124,CONTROLE INTERNO                                                      
-2006,125,NORMATIZACAO E FISCALIZACAO                                           
-2006,126,TECNOLOGIA DA INFORMACAO                                              
-2006,127,ORDENAMENTO TERRITORIAL                                               
-2006,128,FORMACAO DE RECURSOS HUMANOS                                          
-2006,129,ADMINISTRACAO DE RECEITAS                                             
-2006,130,ADMINISTRACAO DE CONCESSOES                                           
-2006,131,COMUNICACAO SOCIAL                                                    
-2006,181,POLICIAMENTO                                                          
-2006,182,DEFESA CIVIL                                                          
-2006,183,INFORMACAO E INTELIGENCIA                                             
-2006,212,COOPERACAO INTERNACIONAL                                              
-2006,241,ASSISTENCIA AO IDOSO                                                  
-2006,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2006,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2006,244,ASSISTENCIA COMUNITARIA                                               
-2006,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2006,274,PREVIDENCIA ESPECIAL                                                  
-2006,301,ATENCAO BASICA                                                        
-2006,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2006,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2006,304,VIGILANCIA SANITARIA                                                  
-2006,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2006,306,ALIMENTACAO E NUTRICAO                                                
-2006,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2006,334,FOMENTO AO TRABALHO                                                   
-2006,361,ENSINO FUNDAMENTAL                                                    
-2006,362,ENSINO MEDIO                                                          
-2006,363,ENSINO PROFISSIONAL                                                   
-2006,364,ENSINO SUPERIOR                                                       
-2006,365,EDUCACAO INFANTIL                                                     
-2006,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2006,367,EDUCACAO ESPECIAL                                                     
-2006,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2006,392,DIFUSAO CULTURAL                                                      
-2006,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2006,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2006,423,ASSISTENCIA AOS POVOS INDIGENAS                                       
-2006,451,INFRA-ESTRUTURA URBANA                                                
-2006,452,SERVICOS URBANOS                                                      
-2006,453,TRANSPORTES COLETIVOS URBANOS                                         
-2006,481,HABITACAO RURAL                                                       
-2006,482,HABITACAO URBANA                                                      
-2006,511,SANEAMENTO BASICO RURAL                                               
-2006,512,SANEAMENTO BASICO URBANO                                              
-2006,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2006,542,CONTROLE AMBIENTAL                                                    
-2006,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2006,544,RECURSOS HIDRICOS                                                     
-2006,571,DESENVOLVIMENTO CIENTIFICO                                            
-2006,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2006,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2006,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2006,603,DEFESA SANITARIA VEGETAL                                              
-2006,605,ABASTECIMENTO                                                         
-2006,606,EXTENSAO RURAL                                                        
-2006,607,IRRIGACAO                                                             
-2006,631,REFORMA AGRARIA                                                       
-2006,661,PROMOCAO INDUSTRIAL                                                   
-2006,662,PRODUCAO INDUSTRIAL                                                   
-2006,663,MINERACAO                                                             
-2006,665,NORMALIZACAO E QUALIDADE                                              
-2006,691,PROMOCAO COMERCIAL                                                    
-2006,692,COMERCIALIZACAO                                                       
-2006,693,COMERCIO EXTERIOR                                                     
-2006,694,SERVICOS FINANCEIROS                                                  
-2006,695,TURISMO                                                               
-2006,722,TELECOMUNICACOES                                                      
-2006,752,ENERGIA ELETRICA                                                      
-2006,781,TRANSPORTE AEREO                                                      
-2006,782,TRANSPORTE RODOVIARIO                                                 
-2006,783,TRANSPORTE FERROVIARIO                                                
-2006,812,DESPORTO COMUNITARIO                                                  
-2006,843,SERVICO DA DIVIDA INTERNA                                             
-2006,844,SERVICO DA DIVIDA EXTERNA                                             
-2006,845,TRANSFERENCIAS                                                        
-2006,846,OUTROS ENCARGOS ESPECIAIS                                             
-2006,999,RESERVA DE CONTINGENCIA                                               
-2007,31,ACAO LEGISLATIVA                                                      
-2007,32,CONTROLE EXTERNO                                                      
-2007,61,ACAO JUDICIARIA                                                       
-2007,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2007,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2007,121,PLANEJAMENTO E ORCAMENTO                                              
-2007,122,ADMINISTRACAO GERAL                                                   
-2007,123,ADMINISTRACAO FINANCEIRA                                              
-2007,124,CONTROLE INTERNO                                                      
-2007,125,NORMATIZACAO E FISCALIZACAO                                           
-2007,126,TECNOLOGIA DA INFORMACAO                                              
-2007,127,ORDENAMENTO TERRITORIAL                                               
-2007,128,FORMACAO DE RECURSOS HUMANOS                                          
-2007,129,ADMINISTRACAO DE RECEITAS                                             
-2007,130,ADMINISTRACAO DE CONCESSOES                                           
-2007,131,COMUNICACAO SOCIAL                                                    
-2007,181,POLICIAMENTO                                                          
-2007,182,DEFESA CIVIL                                                          
-2007,183,INFORMACAO E INTELIGENCIA                                             
-2007,212,COOPERACAO INTERNACIONAL                                              
-2007,241,ASSISTENCIA AO IDOSO                                                  
-2007,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2007,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2007,244,ASSISTENCIA COMUNITARIA                                               
-2007,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2007,274,PREVIDENCIA ESPECIAL                                                  
-2007,301,ATENCAO BASICA                                                        
-2007,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2007,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2007,304,VIGILANCIA SANITARIA                                                  
-2007,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2007,306,ALIMENTACAO E NUTRICAO                                                
-2007,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2007,332,RELACOES DE TRABALHO                                                  
-2007,334,FOMENTO AO TRABALHO                                                   
-2007,361,ENSINO FUNDAMENTAL                                                    
-2007,362,ENSINO MEDIO                                                          
-2007,363,ENSINO PROFISSIONAL                                                   
-2007,364,ENSINO SUPERIOR                                                       
-2007,365,EDUCACAO INFANTIL                                                     
-2007,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2007,367,EDUCACAO ESPECIAL                                                     
-2007,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2007,392,DIFUSAO CULTURAL                                                      
-2007,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2007,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2007,451,INFRA-ESTRUTURA URBANA                                                
-2007,452,SERVICOS URBANOS                                                      
-2007,453,TRANSPORTES COLETIVOS URBANOS                                         
-2007,481,HABITACAO RURAL                                                       
-2007,482,HABITACAO URBANA                                                      
-2007,511,SANEAMENTO BASICO RURAL                                               
-2007,512,SANEAMENTO BASICO URBANO                                              
-2007,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2007,542,CONTROLE AMBIENTAL                                                    
-2007,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2007,544,RECURSOS HIDRICOS                                                     
-2007,571,DESENVOLVIMENTO CIENTIFICO                                            
-2007,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2007,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2007,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2007,603,DEFESA SANITARIA VEGETAL                                              
-2007,604,DEFESA SANITARIA ANIMAL                                               
-2007,605,ABASTECIMENTO                                                         
-2007,606,EXTENSAO RURAL                                                        
-2007,607,IRRIGACAO                                                             
-2007,631,REFORMA AGRARIA                                                       
-2007,661,PROMOCAO INDUSTRIAL                                                   
-2007,662,PRODUCAO INDUSTRIAL                                                   
-2007,663,MINERACAO                                                             
-2007,665,NORMALIZACAO E QUALIDADE                                              
-2007,691,PROMOCAO COMERCIAL                                                    
-2007,692,COMERCIALIZACAO                                                       
-2007,693,COMERCIO EXTERIOR                                                     
-2007,694,SERVICOS FINANCEIROS                                                  
-2007,695,TURISMO                                                               
-2007,722,TELECOMUNICACOES                                                      
-2007,752,ENERGIA ELETRICA                                                      
-2007,781,TRANSPORTE AEREO                                                      
-2007,782,TRANSPORTE RODOVIARIO                                                 
-2007,783,TRANSPORTE FERROVIARIO                                                
-2007,811,DESPORTO DE RENDIMENTO                                                
-2007,812,DESPORTO COMUNITARIO                                                  
-2007,813,LAZER                                                                 
-2007,843,SERVICO DA DIVIDA INTERNA                                             
-2007,844,SERVICO DA DIVIDA EXTERNA                                             
-2007,845,TRANSFERENCIAS                                                        
-2007,846,OUTROS ENCARGOS ESPECIAIS                                             
-2007,999,RESERVA DE CONTINGENCIA                                               
-2008,31,ACAO LEGISLATIVA                                                      
-2008,32,CONTROLE EXTERNO                                                      
-2008,61,ACAO JUDICIARIA                                                       
-2008,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2008,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2008,121,PLANEJAMENTO E ORCAMENTO                                              
-2008,122,ADMINISTRACAO GERAL                                                   
-2008,123,ADMINISTRACAO FINANCEIRA                                              
-2008,124,CONTROLE INTERNO                                                      
-2008,125,NORMATIZACAO E FISCALIZACAO                                           
-2008,126,TECNOLOGIA DA INFORMACAO                                              
-2008,127,ORDENAMENTO TERRITORIAL                                               
-2008,128,FORMACAO DE RECURSOS HUMANOS                                          
-2008,129,ADMINISTRACAO DE RECEITAS                                             
-2008,130,ADMINISTRACAO DE CONCESSOES                                           
-2008,131,COMUNICACAO SOCIAL                                                    
-2008,181,POLICIAMENTO                                                          
-2008,182,DEFESA CIVIL                                                          
-2008,183,INFORMACAO E INTELIGENCIA                                             
-2008,212,COOPERACAO INTERNACIONAL                                              
-2008,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2008,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2008,244,ASSISTENCIA COMUNITARIA                                               
-2008,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2008,274,PREVIDENCIA ESPECIAL                                                  
-2008,301,ATENCAO BASICA                                                        
-2008,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2008,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2008,304,VIGILANCIA SANITARIA                                                  
-2008,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2008,306,ALIMENTACAO E NUTRICAO                                                
-2008,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2008,333,EMPREGABILIDADE                                                       
-2008,334,FOMENTO AO TRABALHO                                                   
-2008,361,ENSINO FUNDAMENTAL                                                    
-2008,362,ENSINO MEDIO                                                          
-2008,363,ENSINO PROFISSIONAL                                                   
-2008,364,ENSINO SUPERIOR                                                       
-2008,365,EDUCACAO INFANTIL                                                     
-2008,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2008,367,EDUCACAO ESPECIAL                                                     
-2008,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2008,392,DIFUSAO CULTURAL                                                      
-2008,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2008,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2008,451,INFRA-ESTRUTURA URBANA                                                
-2008,452,SERVICOS URBANOS                                                      
-2008,482,HABITACAO URBANA                                                      
-2008,511,SANEAMENTO BASICO RURAL                                               
-2008,512,SANEAMENTO BASICO URBANO                                              
-2008,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2008,542,CONTROLE AMBIENTAL                                                    
-2008,544,RECURSOS HIDRICOS                                                     
-2008,571,DESENVOLVIMENTO CIENTIFICO                                            
-2008,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2008,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2008,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2008,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2008,603,DEFESA SANITARIA VEGETAL                                              
-2008,604,DEFESA SANITARIA ANIMAL                                               
-2008,605,ABASTECIMENTO                                                         
-2008,606,EXTENSAO RURAL                                                        
-2008,607,IRRIGACAO                                                             
-2008,631,REFORMA AGRARIA                                                       
-2008,632,COLONIZACAO                                                           
-2008,661,PROMOCAO INDUSTRIAL                                                   
-2008,662,PRODUCAO INDUSTRIAL                                                   
-2008,663,MINERACAO                                                             
-2008,665,NORMALIZACAO E QUALIDADE                                              
-2008,691,PROMOCAO COMERCIAL                                                    
-2008,692,COMERCIALIZACAO                                                       
-2008,693,COMERCIO EXTERIOR                                                     
-2008,694,SERVICOS FINANCEIROS                                                  
-2008,695,TURISMO                                                               
-2008,722,TELECOMUNICACOES                                                      
-2008,752,ENERGIA ELETRICA                                                      
-2008,781,TRANSPORTE AEREO                                                      
-2008,782,TRANSPORTE RODOVIARIO                                                 
-2008,783,TRANSPORTE FERROVIARIO                                                
-2008,784,TRANSPORTE HIDROVIARIO                                                
-2008,811,DESPORTO DE RENDIMENTO                                                
-2008,812,DESPORTO COMUNITARIO                                                  
-2008,843,SERVICO DA DIVIDA INTERNA                                             
-2008,844,SERVICO DA DIVIDA EXTERNA                                             
-2008,845,TRANSFERENCIAS                                                        
-2008,846,OUTROS ENCARGOS ESPECIAIS                                             
-2008,999,RESERVA DE CONTINGENCIA                                               
-2009,31,ACAO LEGISLATIVA                                                      
-2009,32,CONTROLE EXTERNO                                                      
-2009,61,ACAO JUDICIARIA                                                       
-2009,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2009,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2009,121,PLANEJAMENTO E ORCAMENTO                                              
-2009,122,ADMINISTRACAO GERAL                                                   
-2009,123,ADMINISTRACAO FINANCEIRA                                              
-2009,124,CONTROLE INTERNO                                                      
-2009,125,NORMATIZACAO E FISCALIZACAO                                           
-2009,126,TECNOLOGIA DA INFORMA  O                                              
-2009,127,ORDENAMENTO TERRITORIAL                                               
-2009,128,FORMACAO DE RECURSOS HUMANOS                                          
-2009,129,ADMINISTRACAO DE RECEITAS                                             
-2009,130,ADMINISTRACAO DE CONCESSOES                                           
-2009,131,COMUNICACAO SOCIAL                                                    
-2009,181,POLICIAMENTO                                                          
-2009,182,DEFESA CIVIL                                                          
-2009,183,INFORMACAO E INTELIGENCIA                                             
-2009,212,COOPERACAO INTERNACIONAL                                              
-2009,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2009,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2009,244,ASSISTENCIA COMUNITARIA                                               
-2009,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2009,274,PREVIDENCIA ESPECIAL                                                  
-2009,301,ATENCAO BASICA                                                        
-2009,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2009,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2009,304,VIGILANCIA SANITARIA                                                  
-2009,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2009,306,ALIMENTACAO E NUTRICAO                                                
-2009,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2009,334,FOMENTO AO TRABALHO                                                   
-2009,361,ENSINO FUNDAMENTAL                                                    
-2009,362,ENSINO MEDIO                                                          
-2009,363,ENSINO PROFISSIONAL                                                   
-2009,364,ENSINO SUPERIOR                                                       
-2009,365,EDUCACAO INFANTIL                                                     
-2009,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2009,367,EDUCACAO ESPECIAL                                                     
-2009,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2009,392,DIFUSAO CULTURAL                                                      
-2009,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2009,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2009,451,INFRA-ESTRUTURA URBANA                                                
-2009,452,SERVICOS URBANOS                                                      
-2009,453,TRANSPORTES COLETIVOS URBANOS                                         
-2009,481,HABITACAO RURAL                                                       
-2009,482,HABITACAO URBANA                                                      
-2009,512,SANEAMENTO BASICO URBANO                                              
-2009,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2009,542,CONTROLE AMBIENTAL                                                    
-2009,544,RECURSOS HIDRICOS                                                     
-2009,571,DESENVOLVIMENTO CIENTIFICO                                            
-2009,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2009,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2009,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2009,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2009,603,DEFESA SANITARIA VEGETAL                                              
-2009,604,DEFESA SANITARIA ANIMAL                                               
-2009,605,ABASTECIMENTO                                                         
-2009,606,EXTENSAO RURAL                                                        
-2009,607,IRRIGACAO                                                             
-2009,631,REFORMA AGRARIA                                                       
-2009,661,PROMOCAO INDUSTRIAL                                                   
-2009,662,PRODUCAO INDUSTRIAL                                                   
-2009,663,MINERACAO                                                             
-2009,665,NORMALIZACAO E QUALIDADE                                              
-2009,691,PROMOCAO COMERCIAL                                                    
-2009,692,COMERCIALIZACAO                                                       
-2009,693,COMERCIO EXTERIOR                                                     
-2009,694,SERVICOS FINANCEIROS                                                  
-2009,695,TURISMO                                                               
-2009,722,TELECOMUNICACOES                                                      
-2009,752,ENERGIA ELETRICA                                                      
-2009,781,TRANSPORTE AEREO                                                      
-2009,782,TRANSPORTE RODOVIARIO                                                 
-2009,783,TRANSPORTE FERROVIARIO                                                
-2009,784,TRANSPORTE HIDROVIARIO                                                
-2009,811,DESPORTO DE RENDIMENTO                                                
-2009,812,DESPORTO COMUNITARIO                                                  
-2009,843,SERVICO DA DIVIDA INTERNA                                             
-2009,844,SERVICO DA DIVIDA EXTERNA                                             
-2009,845,OUTRAS TRANSFER NCIAS                                                 
-2009,846,OUTROS ENCARGOS ESPECIAIS                                             
-2009,999,RESERVA DE CONTINGENCIA                                               
-2010,31,ACAO LEGISLATIVA                                                      
-2010,32,CONTROLE EXTERNO                                                      
-2010,61,ACAO JUDICIARIA                                                       
-2010,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2010,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2010,121,PLANEJAMENTO E ORCAMENTO                                              
-2010,122,ADMINISTRACAO GERAL                                                   
-2010,123,ADMINISTRACAO FINANCEIRA                                              
-2010,124,CONTROLE INTERNO                                                      
-2010,125,NORMATIZACAO E FISCALIZACAO                                           
-2010,126,TECNOLOGIA DA INFORMACAO                                              
-2010,127,ORDENAMENTO TERRITORIAL                                               
-2010,128,FORMACAO DE RECURSOS HUMANOS                                          
-2010,129,ADMINISTRACAO DE RECEITAS                                             
-2010,130,ADMINISTRACAO DE CONCESSOES                                           
-2010,131,COMUNICACAO SOCIAL                                                    
-2010,181,POLICIAMENTO                                                          
-2010,182,DEFESA CIVIL                                                          
-2010,183,INFORMACAO E INTELIGENCIA                                             
-2010,212,COOPERACAO INTERNACIONAL                                              
-2010,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2010,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2010,244,ASSISTENCIA COMUNITARIA                                               
-2010,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2010,274,PREVIDENCIA ESPECIAL                                                  
-2010,301,ATENCAO BASICA                                                        
-2010,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2010,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2010,304,VIGILANCIA SANITARIA                                                  
-2010,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2010,306,ALIMENTACAO E NUTRICAO                                                
-2010,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2010,334,FOMENTO AO TRABALHO                                                   
-2010,361,ENSINO FUNDAMENTAL                                                    
-2010,362,ENSINO MEDIO                                                          
-2010,363,ENSINO PROFISSIONAL                                                   
-2010,364,ENSINO SUPERIOR                                                       
-2010,365,EDUCACAO INFANTIL                                                     
-2010,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2010,367,EDUCACAO ESPECIAL                                                     
-2010,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2010,392,DIFUSAO CULTURAL                                                      
-2010,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2010,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2010,451,INFRA-ESTRUTURA URBANA                                                
-2010,452,SERVICOS URBANOS                                                      
-2010,453,TRANSPORTES COLETIVOS URBANOS                                         
-2010,481,HABITACAO RURAL                                                       
-2010,482,HABITACAO URBANA                                                      
-2010,512,SANEAMENTO BASICO URBANO                                              
-2010,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2010,542,CONTROLE AMBIENTAL                                                    
-2010,544,RECURSOS HIDRICOS                                                     
-2010,571,DESENVOLVIMENTO CIENTIFICO                                            
-2010,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2010,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2010,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2010,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2010,603,DEFESA SANITARIA VEGETAL                                              
-2010,604,DEFESA SANITARIA ANIMAL                                               
-2010,605,ABASTECIMENTO                                                         
-2010,606,EXTENSAO RURAL                                                        
-2010,607,IRRIGACAO                                                             
-2010,631,REFORMA AGRARIA                                                       
-2010,661,PROMOCAO INDUSTRIAL                                                   
-2010,662,PRODUCAO INDUSTRIAL                                                   
-2010,663,MINERACAO                                                             
-2010,665,NORMALIZACAO E QUALIDADE                                              
-2010,691,PROMOCAO COMERCIAL                                                    
-2010,692,COMERCIALIZACAO                                                       
-2010,693,COMERCIO EXTERIOR                                                     
-2010,694,SERVICOS FINANCEIROS                                                  
-2010,695,TURISMO                                                               
-2010,722,TELECOMUNICACOES                                                      
-2010,752,ENERGIA ELETRICA                                                      
-2010,781,TRANSPORTE AEREO                                                      
-2010,782,TRANSPORTE RODOVIARIO                                                 
-2010,783,TRANSPORTE FERROVIARIO                                                
-2010,784,TRANSPORTE HIDROVIARIO                                                
-2010,811,DESPORTO DE RENDIMENTO                                                
-2010,812,DESPORTO COMUNITARIO                                                  
-2010,813,LAZER                                                                 
-2010,843,SERVICO DA DIVIDA INTERNA                                             
-2010,844,SERVICO DA DIVIDA EXTERNA                                             
-2010,845,OUTRAS TRANSFERENCIAS                                                 
-2010,846,OUTROS ENCARGOS ESPECIAIS                                             
-2010,999,RESERVA DE CONTINGENCIA                                               
-2011,31,ACAO LEGISLATIVA                                                      
-2011,32,CONTROLE EXTERNO                                                      
-2011,61,ACAO JUDICIARIA                                                       
-2011,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2011,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2011,121,PLANEJAMENTO E ORCAMENTO                                              
-2011,122,ADMINISTRACAO GERAL                                                   
-2011,123,ADMINISTRACAO FINANCEIRA                                              
-2011,124,CONTROLE INTERNO                                                      
-2011,125,NORMATIZACAO E FISCALIZACAO                                           
-2011,126,TECNOLOGIA DA INFORMACAO                                              
-2011,127,ORDENAMENTO TERRITORIAL                                               
-2011,128,FORMACAO DE RECURSOS HUMANOS                                          
-2011,129,ADMINISTRACAO DE RECEITAS                                             
-2011,130,ADMINISTRACAO DE CONCESSOES                                           
-2011,131,COMUNICACAO SOCIAL                                                    
-2011,181,POLICIAMENTO                                                          
-2011,182,DEFESA CIVIL                                                          
-2011,183,INFORMACAO E INTELIGENCIA                                             
-2011,212,COOPERACAO INTERNACIONAL                                              
-2011,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2011,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2011,244,ASSISTENCIA COMUNITARIA                                               
-2011,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2011,274,PREVIDENCIA ESPECIAL                                                  
-2011,301,ATENCAO BASICA                                                        
-2011,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2011,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2011,304,VIGILANCIA SANITARIA                                                  
-2011,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2011,306,ALIMENTACAO E NUTRICAO                                                
-2011,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2011,333,EMPREGABILIDADE                                                       
-2011,334,FOMENTO AO TRABALHO                                                   
-2011,361,ENSINO FUNDAMENTAL                                                    
-2011,362,ENSINO MEDIO                                                          
-2011,363,ENSINO PROFISSIONAL                                                   
-2011,364,ENSINO SUPERIOR                                                       
-2011,365,EDUCACAO INFANTIL                                                     
-2011,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2011,367,EDUCACAO ESPECIAL                                                     
-2011,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2011,392,DIFUSAO CULTURAL                                                      
-2011,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2011,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2011,451,INFRA-ESTRUTURA URBANA                                                
-2011,452,SERVICOS URBANOS                                                      
-2011,453,TRANSPORTES COLETIVOS URBANOS                                         
-2011,481,HABITACAO RURAL                                                       
-2011,482,HABITACAO URBANA                                                      
-2011,511,SANEAMENTO BASICO RURAL                                               
-2011,512,SANEAMENTO BASICO URBANO                                              
-2011,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2011,542,CONTROLE AMBIENTAL                                                    
-2011,544,RECURSOS HIDRICOS                                                     
-2011,571,DESENVOLVIMENTO CIENTIFICO                                            
-2011,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2011,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2011,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2011,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2011,603,DEFESA SANITARIA VEGETAL                                              
-2011,604,DEFESA SANITARIA ANIMAL                                               
-2011,605,ABASTECIMENTO                                                         
-2011,606,EXTENSAO RURAL                                                        
-2011,607,IRRIGACAO                                                             
-2011,631,REFORMA AGRARIA                                                       
-2011,661,PROMOCAO INDUSTRIAL                                                   
-2011,662,PRODUCAO INDUSTRIAL                                                   
-2011,663,MINERACAO                                                             
-2011,665,NORMALIZACAO E QUALIDADE                                              
-2011,691,PROMOCAO COMERCIAL                                                    
-2011,692,COMERCIALIZACAO                                                       
-2011,693,COMERCIO EXTERIOR                                                     
-2011,694,SERVICOS FINANCEIROS                                                  
-2011,695,TURISMO                                                               
-2011,722,TELECOMUNICACOES                                                      
-2011,752,ENERGIA ELETRICA                                                      
-2011,781,TRANSPORTE AEREO                                                      
-2011,782,TRANSPORTE RODOVIARIO                                                 
-2011,783,TRANSPORTE FERROVIARIO                                                
-2011,784,TRANSPORTE HIDROVIARIO                                                
-2011,811,DESPORTO DE RENDIMENTO                                                
-2011,812,DESPORTO COMUNITARIO                                                  
-2011,813,LAZER                                                                 
-2011,843,SERVICO DA DIVIDA INTERNA                                             
-2011,844,SERVICO DA DIVIDA EXTERNA                                             
-2011,845,OUTRAS TRANSFERENCIAS                                                 
-2011,846,OUTROS ENCARGOS ESPECIAIS                                             
-2011,999,RESERVA DE CONTINGENCIA                                               
-2012,31,ACAO LEGISLATIVA                                                      
-2012,32,CONTROLE EXTERNO                                                      
-2012,61,ACAO JUDICIARIA                                                       
-2012,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO                    
-2012,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL                                
-2012,121,PLANEJAMENTO E ORCAMENTO                                              
-2012,122,ADMINISTRACAO GERAL                                                   
-2012,123,ADMINISTRACAO FINANCEIRA                                              
-2012,124,CONTROLE INTERNO                                                      
-2012,125,NORMATIZACAO E FISCALIZACAO                                           
-2012,126,TECNOLOGIA DA INFORMACAO                                              
-2012,127,ORDENAMENTO TERRITORIAL                                               
-2012,128,FORMACAO DE RECURSOS HUMANOS                                          
-2012,129,ADMINISTRACAO DE RECEITAS                                             
-2012,130,ADMINISTRACAO DE CONCESSOES                                           
-2012,131,COMUNICACAO SOCIAL                                                    
-2012,181,POLICIAMENTO                                                          
-2012,182,DEFESA CIVIL                                                          
-2012,183,INFORMACAO E INTELIGENCIA                                             
-2012,212,COOPERACAO INTERNACIONAL                                              
-2012,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA                                
-2012,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE                                
-2012,244,ASSISTENCIA COMUNITARIA                                               
-2012,272,PREVIDENCIA DO REGIME ESTATUTARIO                                     
-2012,274,PREVIDENCIA ESPECIAL                                                  
-2012,301,ATENCAO BASICA                                                        
-2012,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL                                 
-2012,303,SUPORTE PROFILATICO E TERAPEUTICO                                     
-2012,304,VIGILANCIA SANITARIA                                                  
-2012,305,VIGILANCIA EPIDEMIOLOGICA                                             
-2012,306,ALIMENTACAO E NUTRICAO                                                
-2012,331,PROTECAO E BENEFICIOS AO TRABALHADOR                                  
-2012,333,EMPREGABILIDADE                                                       
-2012,334,FOMENTO AO TRABALHO                                                   
-2012,361,ENSINO FUNDAMENTAL                                                    
-2012,362,ENSINO MEDIO                                                          
-2012,363,ENSINO PROFISSIONAL                                                   
-2012,364,ENSINO SUPERIOR                                                       
-2012,365,EDUCACAO INFANTIL                                                     
-2012,366,EDUCACAO DE JOVENS E ADULTOS                                          
-2012,367,EDUCACAO ESPECIAL                                                     
-2012,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO                        "
-2012,392,DIFUSAO CULTURAL                                                      
-2012,421,CUSTODIA E REINTEGRACAO SOCIAL                                        
-2012,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS                             "
-2012,451,INFRA-ESTRUTURA URBANA                                                
-2012,452,SERVICOS URBANOS                                                      
-2012,482,HABITACAO URBANA                                                      
-2012,511,SANEAMENTO BASICO RURAL                                               
-2012,512,SANEAMENTO BASICO URBANO                                              
-2012,541,PRESERVACAO E CONSERVACAO AMBIENTAL                                   
-2012,542,CONTROLE AMBIENTAL                                                    
-2012,543,RECUPERACAO DE AREAS DEGRADADAS                                       
-2012,544,RECURSOS HIDRICOS                                                     
-2012,571,DESENVOLVIMENTO CIENTIFICO                                            
-2012,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA                              
-2012,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO                      
-2012,601,PROMOCAO DA PRODUCAO VEGETAL                                          
-2012,602,PROMOCAO DA PRODUCAO ANIMAL                                           
-2012,603,DEFESA SANITARIA VEGETAL                                              
-2012,604,DEFESA SANITARIA ANIMAL                                               
-2012,605,ABASTECIMENTO                                                         
-2012,606,EXTENSAO RURAL                                                        
-2012,607,IRRIGACAO                                                             
-2012,631,REFORMA AGRARIA                                                       
-2012,661,PROMOCAO INDUSTRIAL                                                   
-2012,662,PRODUCAO INDUSTRIAL                                                   
-2012,663,MINERACAO                                                             
-2012,665,NORMALIZACAO E QUALIDADE                                              
-2012,691,PROMOCAO COMERCIAL                                                    
-2012,692,COMERCIALIZACAO                                                       
-2012,693,COMERCIO EXTERIOR                                                     
-2012,694,SERVICOS FINANCEIROS                                                  
-2012,695,TURISMO                                                               
-2012,722,TELECOMUNICACOES                                                      
-2012,752,ENERGIA ELETRICA                                                      
-2012,781,TRANSPORTE AEREO                                                      
-2012,782,TRANSPORTE RODOVIARIO                                                 
-2012,783,TRANSPORTE FERROVIARIO                                                
-2012,811,DESPORTO DE RENDIMENTO                                                
-2012,812,DESPORTO COMUNITARIO                                                  
-2012,813,LAZER                                                                 
-2012,843,SERVICO DA DIVIDA INTERNA                                             
-2012,844,SERVICO DA DIVIDA EXTERNA                                             
-2012,845,OUTRAS TRANSFERENCIAS                                                 
-2012,846,OUTROS ENCARGOS ESPECIAIS                                             
-2012,999,RESERVA DE CONTINGENCIA                                               
+2002,31,ACAO LEGISLATIVA
+2002,32,CONTROLE EXTERNO
+2002,61,ACAO JUDICIARIA
+2002,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2002,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2002,121,PLANEJAMENTO E ORCAMENTO
+2002,122,ADMINISTRACAO GERAL
+2002,123,ADMINISTRACAO FINANCEIRA
+2002,124,CONTROLE INTERNO
+2002,125,NORMATIZACAO E FISCALIZACAO
+2002,126,TECNOLOGIA DA INFORMACAO
+2002,127,ORDENAMENTO TERRITORIAL
+2002,128,FORMACAO DE RECURSOS HUMANOS
+2002,129,ADMINISTRACAO DE RECEITAS
+2002,131,COMUNICACAO SOCIAL
+2002,181,POLICIAMENTO
+2002,182,DEFESA CIVIL
+2002,241,ASSISTENCIA AO IDOSO
+2002,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2002,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2002,244,ASSISTENCIA COMUNITARIA
+2002,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2002,274,PREVIDENCIA ESPECIAL
+2002,301,ATENCAO BASICA
+2002,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2002,303,SUPORTE PROFILATICO E TERAPEUTICO
+2002,304,VIGILÂNCIA SANITARIA
+2002,305,VIGILÂNCIA EPIDEMIOLOGICA
+2002,306,ALIMENTACAO E NUTRICAO
+2002,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2002,332,RELACOES DE TRABALHO
+2002,333,EMPREGABILIDADE
+2002,361,ENSINO FUNDAMENTAL
+2002,362,ENSINO MEDIO
+2002,363,ENSINO PROFISSIONAL
+2002,364,ENSINO SUPERIOR
+2002,365,EDUCACAO INFANTIL
+2002,366,EDUCACAO DE JOVENS E ADULTOS
+2002,367,EDUCACAO ESPECIAL
+2002,391,"PATRIMÔNIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2002,392,DIFUSAO CULTURAL
+2002,421,CUSTODIA E REINTEGRACAO SOCIAL
+2002,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2002,451,INFRA-ESTRUTURA URBANA
+2002,482,HABITACAO URBANA
+2002,512,SANEAMENTO BASICO URBANO
+2002,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2002,542,CONTROLE AMBIENTAL
+2002,543,RECUPERACAO DE AREAS DEGRADADAS
+2002,544,RECURSOS HIDRICOS
+2002,571,DESENVOLVIMENTO CIENTIFICO
+2002,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2002,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2002,601,PROMOCAO DA PRODUCAO VEGETAL
+2002,602,PROMOCAO DA PRODUCAO ANIMAL
+2002,603,DEFESA SANITARIA VEGETAL
+2002,604,DEFESA SANITARIA ANIMAL
+2002,606,EXTENSAO RURAL
+2002,607,IRRIGACAO
+2002,631,REFORMA AGRARIA
+2002,661,PROMOCAO INDUSTRIAL
+2002,662,PRODUCAO INDUSTRIAL
+2002,663,MINERACAO
+2002,665,NORMALIZACAO E QUALIDADE
+2002,691,PROMOCAO COMERCIAL
+2002,692,COMERCIALIZACAO
+2002,694,SERVICOS FINANCEIROS
+2002,695,TURISMO
+2002,722,TELECOMUNICACOES
+2002,752,ENERGIA ELETRICA
+2002,782,TRANSPORTE RODOVIARIO
+2002,783,TRANSPORTE FERROVIARIO
+2002,812,DESPORTO COMUNITARIO
+2002,843,SERVICO DA DIVIDA INTERNA
+2002,844,SERVICO DA DIVIDA EXTERNA
+2002,845,TRANSFERENCIAS
+2002,846,OUTROS ENCARGOS ESPECIAIS
+2002,999,RESERVA DE CONTINGENCIA
+2003,31,ACAO LEGISLATIVA
+2003,32,CONTROLE EXTERNO
+2003,61,ACAO JUDICIARIA
+2003,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2003,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2003,121,PLANEJAMENTO E ORCAMENTO
+2003,122,ADMINISTRACAO GERAL
+2003,123,ADMINISTRACAO FINANCEIRA
+2003,124,CONTROLE INTERNO
+2003,125,NORMATIZACAO E FISCALIZACAO
+2003,126,TECNOLOGIA DA INFORMACAO
+2003,127,ORDENAMENTO TERRITORIAL
+2003,128,FORMACAO DE RECURSOS HUMANOS
+2003,129,ADMINISTRACAO DE RECEITAS
+2003,131,COMUNICACAO SOCIAL
+2003,181,POLICIAMENTO
+2003,182,DEFESA CIVIL
+2003,241,ASSISTENCIA AO IDOSO
+2003,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2003,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2003,244,ASSISTENCIA COMUNITARIA
+2003,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2003,274,PREVIDENCIA ESPECIAL
+2003,301,ATENCAO BASICA
+2003,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2003,303,SUPORTE PROFILATICO E TERAPEUTICO
+2003,304,VIGILANCIA SANITARIA
+2003,305,VIGILANCIA EPIDEMIOLOGICA
+2003,306,ALIMENTACAO E NUTRICAO
+2003,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2003,332,RELACOES DE TRABALHO
+2003,333,EMPREGABILIDADE
+2003,361,ENSINO FUNDAMENTAL
+2003,362,ENSINO MEDIO
+2003,363,ENSINO PROFISSIONAL
+2003,364,ENSINO SUPERIOR
+2003,365,EDUCACAO INFANTIL
+2003,366,EDUCACAO DE JOVENS E ADULTOS
+2003,367,EDUCACAO ESPECIAL
+2003,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2003,392,DIFUSAO CULTURAL
+2003,421,CUSTODIA E REINTEGRACAO SOCIAL
+2003,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2003,451,INFRA-ESTRUTURA URBANA
+2003,482,HABITACAO URBANA
+2003,512,SANEAMENTO BASICO URBANO
+2003,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2003,542,CONTROLE AMBIENTAL
+2003,543,RECUPERACAO DE AREAS DEGRADADAS
+2003,544,RECURSOS HIDRICOS
+2003,571,DESENVOLVIMENTO CIENTIFICO
+2003,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2003,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2003,601,PROMOCAO DA PRODUCAO VEGETAL
+2003,602,PROMOCAO DA PRODUCAO ANIMAL
+2003,603,DEFESA SANITARIA VEGETAL
+2003,604,DEFESA SANITARIA ANIMAL
+2003,606,EXTENSAO RURAL
+2003,607,IRRIGACAO
+2003,631,REFORMA AGRARIA
+2003,661,PROMOCAO INDUSTRIAL
+2003,662,PRODUCAO INDUSTRIAL
+2003,663,MINERACAO
+2003,665,NORMALIZACAO E QUALIDADE
+2003,691,PROMOCAO COMERCIAL
+2003,692,COMERCIALIZACAO
+2003,694,SERVICOS FINANCEIROS
+2003,695,TURISMO
+2003,722,TELECOMUNICACOES
+2003,752,ENERGIA ELETRICA
+2003,782,TRANSPORTE RODOVIARIO
+2003,783,TRANSPORTE FERROVIARIO
+2003,812,DESPORTO COMUNITARIO
+2003,843,SERVICO DA DIVIDA INTERNA
+2003,844,SERVICO DA DIVIDA EXTERNA
+2003,845,TRANSFERENCIAS
+2003,846,OUTROS ENCARGOS ESPECIAIS
+2003,999,RESERVA DE CONTINGENCIA
+2004,31,ACAO LEGISLATIVA
+2004,32,CONTROLE EXTERNO
+2004,61,ACAO JUDICIARIA
+2004,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2004,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2004,121,PLANEJAMENTO E ORCAMENTO
+2004,122,ADMINISTRACAO GERAL
+2004,123,ADMINISTRACAO FINANCEIRA
+2004,124,CONTROLE INTERNO
+2004,125,NORMATIZACAO E FISCALIZACAO
+2004,126,TECNOLOGIA DA INFORMACAO
+2004,127,ORDENAMENTO TERRITORIAL
+2004,128,FORMACAO DE RECURSOS HUMANOS
+2004,129,ADMINISTRACAO DE RECEITAS
+2004,131,COMUNICACAO SOCIAL
+2004,181,POLICIAMENTO
+2004,182,DEFESA CIVIL
+2004,183,INFORMACAO E INTELIGENCIA
+2004,241,ASSISTENCIA AO IDOSO
+2004,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2004,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2004,244,ASSISTENCIA COMUNITARIA
+2004,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2004,274,PREVIDENCIA ESPECIAL
+2004,301,ATENCAO BASICA
+2004,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2004,303,SUPORTE PROFILATICO E TERAPEUTICO
+2004,304,VIGILANCIA SANITARIA
+2004,305,VIGILANCIA EPIDEMIOLOGICA
+2004,306,ALIMENTACAO E NUTRICAO
+2004,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2004,334,FOMENTO AO TRABALHO
+2004,361,ENSINO FUNDAMENTAL
+2004,362,ENSINO MEDIO
+2004,363,ENSINO PROFISSIONAL
+2004,364,ENSINO SUPERIOR
+2004,365,EDUCACAO INFANTIL
+2004,366,EDUCACAO DE JOVENS E ADULTOS
+2004,367,EDUCACAO ESPECIAL
+2004,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2004,392,DIFUSAO CULTURAL
+2004,421,CUSTODIA E REINTEGRACAO SOCIAL
+2004,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2004,452,SERVICOS URBANOS
+2004,453,TRANSPORTES COLETIVOS URBANOS
+2004,481,HABITACAO RURAL
+2004,482,HABITACAO URBANA
+2004,511,SANEAMENTO BASICO RURAL
+2004,512,SANEAMENTO BASICO URBANO
+2004,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2004,542,CONTROLE AMBIENTAL
+2004,543,RECUPERACAO DE AREAS DEGRADADAS
+2004,544,RECURSOS HIDRICOS
+2004,571,DESENVOLVIMENTO CIENTIFICO
+2004,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2004,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2004,601,PROMOCAO DA PRODUCAO VEGETAL
+2004,603,DEFESA SANITARIA VEGETAL
+2004,606,EXTENSAO RURAL
+2004,607,IRRIGACAO
+2004,631,REFORMA AGRARIA
+2004,661,PROMOCAO INDUSTRIAL
+2004,662,PRODUCAO INDUSTRIAL
+2004,663,MINERACAO
+2004,665,NORMALIZACAO E QUALIDADE
+2004,691,PROMOCAO COMERCIAL
+2004,692,COMERCIALIZACAO
+2004,693,COMERCIO EXTERIOR
+2004,694,SERVICOS FINANCEIROS
+2004,695,TURISMO
+2004,722,TELECOMUNICACOES
+2004,752,ENERGIA ELETRICA
+2004,781,TRANSPORTE AEREO
+2004,782,TRANSPORTE RODOVIARIO
+2004,783,TRANSPORTE FERROVIARIO
+2004,784,TRANSPORTE HIDROVIARIO
+2004,812,DESPORTO COMUNITARIO
+2004,843,SERVICO DA DIVIDA INTERNA
+2004,844,SERVICO DA DIVIDA EXTERNA
+2004,845,TRANSFERENCIAS
+2004,846,OUTROS ENCARGOS ESPECIAIS
+2004,999,RESERVA DE CONTINGENCIA
+2005,31,ACAO LEGISLATIVA
+2005,32,CONTROLE EXTERNO
+2005,61,ACAO JUDICIARIA
+2005,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2005,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2005,121,PLANEJAMENTO E ORCAMENTO
+2005,122,ADMINISTRACAO GERAL
+2005,123,ADMINISTRACAO FINANCEIRA
+2005,124,CONTROLE INTERNO
+2005,125,NORMATIZACAO E FISCALIZACAO
+2005,126,TECNOLOGIA DA INFORMACAO
+2005,127,ORDENAMENTO TERRITORIAL
+2005,128,FORMACAO DE RECURSOS HUMANOS
+2005,129,ADMINISTRACAO DE RECEITAS
+2005,130,ADMINISTRACAO DE CONCESSOES
+2005,131,COMUNICACAO SOCIAL
+2005,181,POLICIAMENTO
+2005,182,DEFESA CIVIL
+2005,183,INFORMACAO E INTELIGENCIA
+2005,212,COOPERACAO INTERNACIONAL
+2005,241,ASSISTENCIA AO IDOSO
+2005,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2005,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2005,244,ASSISTENCIA COMUNITARIA
+2005,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2005,274,PREVIDENCIA ESPECIAL
+2005,301,ATENCAO BASICA
+2005,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2005,303,SUPORTE PROFILATICO E TERAPEUTICO
+2005,304,VIGILANCIA SANITARIA
+2005,305,VIGILANCIA EPIDEMIOLOGICA
+2005,306,ALIMENTACAO E NUTRICAO
+2005,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2005,334,FOMENTO AO TRABALHO
+2005,361,ENSINO FUNDAMENTAL
+2005,362,ENSINO MEDIO
+2005,363,ENSINO PROFISSIONAL
+2005,364,ENSINO SUPERIOR
+2005,365,EDUCACAO INFANTIL
+2005,366,EDUCACAO DE JOVENS E ADULTOS
+2005,367,EDUCACAO ESPECIAL
+2005,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2005,392,DIFUSAO CULTURAL
+2005,421,CUSTODIA E REINTEGRACAO SOCIAL
+2005,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2005,451,INFRA-ESTRUTURA URBANA
+2005,452,SERVICOS URBANOS
+2005,453,TRANSPORTES COLETIVOS URBANOS
+2005,481,HABITACAO RURAL
+2005,482,HABITACAO URBANA
+2005,511,SANEAMENTO BASICO RURAL
+2005,512,SANEAMENTO BASICO URBANO
+2005,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2005,542,CONTROLE AMBIENTAL
+2005,543,RECUPERACAO DE AREAS DEGRADADAS
+2005,544,RECURSOS HIDRICOS
+2005,571,DESENVOLVIMENTO CIENTIFICO
+2005,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2005,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2005,601,PROMOCAO DA PRODUCAO VEGETAL
+2005,603,DEFESA SANITARIA VEGETAL
+2005,605,ABASTECIMENTO
+2005,606,EXTENSAO RURAL
+2005,607,IRRIGACAO
+2005,631,REFORMA AGRARIA
+2005,661,PROMOCAO INDUSTRIAL
+2005,662,PRODUCAO INDUSTRIAL
+2005,663,MINERACAO
+2005,665,NORMALIZACAO E QUALIDADE
+2005,691,PROMOCAO COMERCIAL
+2005,692,COMERCIALIZACAO
+2005,693,COMERCIO EXTERIOR
+2005,694,SERVICOS FINANCEIROS
+2005,695,TURISMO
+2005,722,TELECOMUNICACOES
+2005,752,ENERGIA ELETRICA
+2005,781,TRANSPORTE AEREO
+2005,782,TRANSPORTE RODOVIARIO
+2005,783,TRANSPORTE FERROVIARIO
+2005,784,TRANSPORTE HIDROVIARIO
+2005,812,DESPORTO COMUNITARIO
+2005,843,SERVICO DA DIVIDA INTERNA
+2005,844,SERVICO DA DIVIDA EXTERNA
+2005,845,TRANSFERENCIAS
+2005,846,OUTROS ENCARGOS ESPECIAIS
+2005,999,RESERVA DE CONTINGENCIA
+2006,31,ACAO LEGISLATIVA
+2006,32,CONTROLE EXTERNO
+2006,61,ACAO JUDICIARIA
+2006,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2006,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2006,121,PLANEJAMENTO E ORCAMENTO
+2006,122,ADMINISTRACAO GERAL
+2006,123,ADMINISTRACAO FINANCEIRA
+2006,124,CONTROLE INTERNO
+2006,125,NORMATIZACAO E FISCALIZACAO
+2006,126,TECNOLOGIA DA INFORMACAO
+2006,127,ORDENAMENTO TERRITORIAL
+2006,128,FORMACAO DE RECURSOS HUMANOS
+2006,129,ADMINISTRACAO DE RECEITAS
+2006,130,ADMINISTRACAO DE CONCESSOES
+2006,131,COMUNICACAO SOCIAL
+2006,181,POLICIAMENTO
+2006,182,DEFESA CIVIL
+2006,183,INFORMACAO E INTELIGENCIA
+2006,212,COOPERACAO INTERNACIONAL
+2006,241,ASSISTENCIA AO IDOSO
+2006,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2006,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2006,244,ASSISTENCIA COMUNITARIA
+2006,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2006,274,PREVIDENCIA ESPECIAL
+2006,301,ATENCAO BASICA
+2006,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2006,303,SUPORTE PROFILATICO E TERAPEUTICO
+2006,304,VIGILANCIA SANITARIA
+2006,305,VIGILANCIA EPIDEMIOLOGICA
+2006,306,ALIMENTACAO E NUTRICAO
+2006,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2006,334,FOMENTO AO TRABALHO
+2006,361,ENSINO FUNDAMENTAL
+2006,362,ENSINO MEDIO
+2006,363,ENSINO PROFISSIONAL
+2006,364,ENSINO SUPERIOR
+2006,365,EDUCACAO INFANTIL
+2006,366,EDUCACAO DE JOVENS E ADULTOS
+2006,367,EDUCACAO ESPECIAL
+2006,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2006,392,DIFUSAO CULTURAL
+2006,421,CUSTODIA E REINTEGRACAO SOCIAL
+2006,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2006,423,ASSISTENCIA AOS POVOS INDIGENAS
+2006,451,INFRA-ESTRUTURA URBANA
+2006,452,SERVICOS URBANOS
+2006,453,TRANSPORTES COLETIVOS URBANOS
+2006,481,HABITACAO RURAL
+2006,482,HABITACAO URBANA
+2006,511,SANEAMENTO BASICO RURAL
+2006,512,SANEAMENTO BASICO URBANO
+2006,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2006,542,CONTROLE AMBIENTAL
+2006,543,RECUPERACAO DE AREAS DEGRADADAS
+2006,544,RECURSOS HIDRICOS
+2006,571,DESENVOLVIMENTO CIENTIFICO
+2006,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2006,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2006,601,PROMOCAO DA PRODUCAO VEGETAL
+2006,603,DEFESA SANITARIA VEGETAL
+2006,605,ABASTECIMENTO
+2006,606,EXTENSAO RURAL
+2006,607,IRRIGACAO
+2006,631,REFORMA AGRARIA
+2006,661,PROMOCAO INDUSTRIAL
+2006,662,PRODUCAO INDUSTRIAL
+2006,663,MINERACAO
+2006,665,NORMALIZACAO E QUALIDADE
+2006,691,PROMOCAO COMERCIAL
+2006,692,COMERCIALIZACAO
+2006,693,COMERCIO EXTERIOR
+2006,694,SERVICOS FINANCEIROS
+2006,695,TURISMO
+2006,722,TELECOMUNICACOES
+2006,752,ENERGIA ELETRICA
+2006,781,TRANSPORTE AEREO
+2006,782,TRANSPORTE RODOVIARIO
+2006,783,TRANSPORTE FERROVIARIO
+2006,812,DESPORTO COMUNITARIO
+2006,843,SERVICO DA DIVIDA INTERNA
+2006,844,SERVICO DA DIVIDA EXTERNA
+2006,845,TRANSFERENCIAS
+2006,846,OUTROS ENCARGOS ESPECIAIS
+2006,999,RESERVA DE CONTINGENCIA
+2007,31,ACAO LEGISLATIVA
+2007,32,CONTROLE EXTERNO
+2007,61,ACAO JUDICIARIA
+2007,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2007,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2007,121,PLANEJAMENTO E ORCAMENTO
+2007,122,ADMINISTRACAO GERAL
+2007,123,ADMINISTRACAO FINANCEIRA
+2007,124,CONTROLE INTERNO
+2007,125,NORMATIZACAO E FISCALIZACAO
+2007,126,TECNOLOGIA DA INFORMACAO
+2007,127,ORDENAMENTO TERRITORIAL
+2007,128,FORMACAO DE RECURSOS HUMANOS
+2007,129,ADMINISTRACAO DE RECEITAS
+2007,130,ADMINISTRACAO DE CONCESSOES
+2007,131,COMUNICACAO SOCIAL
+2007,181,POLICIAMENTO
+2007,182,DEFESA CIVIL
+2007,183,INFORMACAO E INTELIGENCIA
+2007,212,COOPERACAO INTERNACIONAL
+2007,241,ASSISTENCIA AO IDOSO
+2007,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2007,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2007,244,ASSISTENCIA COMUNITARIA
+2007,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2007,274,PREVIDENCIA ESPECIAL
+2007,301,ATENCAO BASICA
+2007,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2007,303,SUPORTE PROFILATICO E TERAPEUTICO
+2007,304,VIGILANCIA SANITARIA
+2007,305,VIGILANCIA EPIDEMIOLOGICA
+2007,306,ALIMENTACAO E NUTRICAO
+2007,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2007,332,RELACOES DE TRABALHO
+2007,334,FOMENTO AO TRABALHO
+2007,361,ENSINO FUNDAMENTAL
+2007,362,ENSINO MEDIO
+2007,363,ENSINO PROFISSIONAL
+2007,364,ENSINO SUPERIOR
+2007,365,EDUCACAO INFANTIL
+2007,366,EDUCACAO DE JOVENS E ADULTOS
+2007,367,EDUCACAO ESPECIAL
+2007,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2007,392,DIFUSAO CULTURAL
+2007,421,CUSTODIA E REINTEGRACAO SOCIAL
+2007,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2007,451,INFRA-ESTRUTURA URBANA
+2007,452,SERVICOS URBANOS
+2007,453,TRANSPORTES COLETIVOS URBANOS
+2007,481,HABITACAO RURAL
+2007,482,HABITACAO URBANA
+2007,511,SANEAMENTO BASICO RURAL
+2007,512,SANEAMENTO BASICO URBANO
+2007,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2007,542,CONTROLE AMBIENTAL
+2007,543,RECUPERACAO DE AREAS DEGRADADAS
+2007,544,RECURSOS HIDRICOS
+2007,571,DESENVOLVIMENTO CIENTIFICO
+2007,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2007,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2007,601,PROMOCAO DA PRODUCAO VEGETAL
+2007,603,DEFESA SANITARIA VEGETAL
+2007,604,DEFESA SANITARIA ANIMAL
+2007,605,ABASTECIMENTO
+2007,606,EXTENSAO RURAL
+2007,607,IRRIGACAO
+2007,631,REFORMA AGRARIA
+2007,661,PROMOCAO INDUSTRIAL
+2007,662,PRODUCAO INDUSTRIAL
+2007,663,MINERACAO
+2007,665,NORMALIZACAO E QUALIDADE
+2007,691,PROMOCAO COMERCIAL
+2007,692,COMERCIALIZACAO
+2007,693,COMERCIO EXTERIOR
+2007,694,SERVICOS FINANCEIROS
+2007,695,TURISMO
+2007,722,TELECOMUNICACOES
+2007,752,ENERGIA ELETRICA
+2007,781,TRANSPORTE AEREO
+2007,782,TRANSPORTE RODOVIARIO
+2007,783,TRANSPORTE FERROVIARIO
+2007,811,DESPORTO DE RENDIMENTO
+2007,812,DESPORTO COMUNITARIO
+2007,813,LAZER
+2007,843,SERVICO DA DIVIDA INTERNA
+2007,844,SERVICO DA DIVIDA EXTERNA
+2007,845,TRANSFERENCIAS
+2007,846,OUTROS ENCARGOS ESPECIAIS
+2007,999,RESERVA DE CONTINGENCIA
+2008,31,ACAO LEGISLATIVA
+2008,32,CONTROLE EXTERNO
+2008,61,ACAO JUDICIARIA
+2008,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2008,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2008,121,PLANEJAMENTO E ORCAMENTO
+2008,122,ADMINISTRACAO GERAL
+2008,123,ADMINISTRACAO FINANCEIRA
+2008,124,CONTROLE INTERNO
+2008,125,NORMATIZACAO E FISCALIZACAO
+2008,126,TECNOLOGIA DA INFORMACAO
+2008,127,ORDENAMENTO TERRITORIAL
+2008,128,FORMACAO DE RECURSOS HUMANOS
+2008,129,ADMINISTRACAO DE RECEITAS
+2008,130,ADMINISTRACAO DE CONCESSOES
+2008,131,COMUNICACAO SOCIAL
+2008,181,POLICIAMENTO
+2008,182,DEFESA CIVIL
+2008,183,INFORMACAO E INTELIGENCIA
+2008,212,COOPERACAO INTERNACIONAL
+2008,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2008,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2008,244,ASSISTENCIA COMUNITARIA
+2008,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2008,274,PREVIDENCIA ESPECIAL
+2008,301,ATENCAO BASICA
+2008,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2008,303,SUPORTE PROFILATICO E TERAPEUTICO
+2008,304,VIGILANCIA SANITARIA
+2008,305,VIGILANCIA EPIDEMIOLOGICA
+2008,306,ALIMENTACAO E NUTRICAO
+2008,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2008,333,EMPREGABILIDADE
+2008,334,FOMENTO AO TRABALHO
+2008,361,ENSINO FUNDAMENTAL
+2008,362,ENSINO MEDIO
+2008,363,ENSINO PROFISSIONAL
+2008,364,ENSINO SUPERIOR
+2008,365,EDUCACAO INFANTIL
+2008,366,EDUCACAO DE JOVENS E ADULTOS
+2008,367,EDUCACAO ESPECIAL
+2008,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2008,392,DIFUSAO CULTURAL
+2008,421,CUSTODIA E REINTEGRACAO SOCIAL
+2008,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2008,451,INFRA-ESTRUTURA URBANA
+2008,452,SERVICOS URBANOS
+2008,482,HABITACAO URBANA
+2008,511,SANEAMENTO BASICO RURAL
+2008,512,SANEAMENTO BASICO URBANO
+2008,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2008,542,CONTROLE AMBIENTAL
+2008,544,RECURSOS HIDRICOS
+2008,571,DESENVOLVIMENTO CIENTIFICO
+2008,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2008,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2008,601,PROMOCAO DA PRODUCAO VEGETAL
+2008,602,PROMOCAO DA PRODUCAO ANIMAL
+2008,603,DEFESA SANITARIA VEGETAL
+2008,604,DEFESA SANITARIA ANIMAL
+2008,605,ABASTECIMENTO
+2008,606,EXTENSAO RURAL
+2008,607,IRRIGACAO
+2008,631,REFORMA AGRARIA
+2008,632,COLONIZACAO
+2008,661,PROMOCAO INDUSTRIAL
+2008,662,PRODUCAO INDUSTRIAL
+2008,663,MINERACAO
+2008,665,NORMALIZACAO E QUALIDADE
+2008,691,PROMOCAO COMERCIAL
+2008,692,COMERCIALIZACAO
+2008,693,COMERCIO EXTERIOR
+2008,694,SERVICOS FINANCEIROS
+2008,695,TURISMO
+2008,722,TELECOMUNICACOES
+2008,752,ENERGIA ELETRICA
+2008,781,TRANSPORTE AEREO
+2008,782,TRANSPORTE RODOVIARIO
+2008,783,TRANSPORTE FERROVIARIO
+2008,784,TRANSPORTE HIDROVIARIO
+2008,811,DESPORTO DE RENDIMENTO
+2008,812,DESPORTO COMUNITARIO
+2008,843,SERVICO DA DIVIDA INTERNA
+2008,844,SERVICO DA DIVIDA EXTERNA
+2008,845,TRANSFERENCIAS
+2008,846,OUTROS ENCARGOS ESPECIAIS
+2008,999,RESERVA DE CONTINGENCIA
+2009,31,ACAO LEGISLATIVA
+2009,32,CONTROLE EXTERNO
+2009,61,ACAO JUDICIARIA
+2009,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2009,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2009,121,PLANEJAMENTO E ORCAMENTO
+2009,122,ADMINISTRACAO GERAL
+2009,123,ADMINISTRACAO FINANCEIRA
+2009,124,CONTROLE INTERNO
+2009,125,NORMATIZACAO E FISCALIZACAO
+2009,126,TECNOLOGIA DA INFORMA  O
+2009,127,ORDENAMENTO TERRITORIAL
+2009,128,FORMACAO DE RECURSOS HUMANOS
+2009,129,ADMINISTRACAO DE RECEITAS
+2009,130,ADMINISTRACAO DE CONCESSOES
+2009,131,COMUNICACAO SOCIAL
+2009,181,POLICIAMENTO
+2009,182,DEFESA CIVIL
+2009,183,INFORMACAO E INTELIGENCIA
+2009,212,COOPERACAO INTERNACIONAL
+2009,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2009,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2009,244,ASSISTENCIA COMUNITARIA
+2009,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2009,274,PREVIDENCIA ESPECIAL
+2009,301,ATENCAO BASICA
+2009,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2009,303,SUPORTE PROFILATICO E TERAPEUTICO
+2009,304,VIGILANCIA SANITARIA
+2009,305,VIGILANCIA EPIDEMIOLOGICA
+2009,306,ALIMENTACAO E NUTRICAO
+2009,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2009,334,FOMENTO AO TRABALHO
+2009,361,ENSINO FUNDAMENTAL
+2009,362,ENSINO MEDIO
+2009,363,ENSINO PROFISSIONAL
+2009,364,ENSINO SUPERIOR
+2009,365,EDUCACAO INFANTIL
+2009,366,EDUCACAO DE JOVENS E ADULTOS
+2009,367,EDUCACAO ESPECIAL
+2009,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2009,392,DIFUSAO CULTURAL
+2009,421,CUSTODIA E REINTEGRACAO SOCIAL
+2009,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2009,451,INFRA-ESTRUTURA URBANA
+2009,452,SERVICOS URBANOS
+2009,453,TRANSPORTES COLETIVOS URBANOS
+2009,481,HABITACAO RURAL
+2009,482,HABITACAO URBANA
+2009,512,SANEAMENTO BASICO URBANO
+2009,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2009,542,CONTROLE AMBIENTAL
+2009,544,RECURSOS HIDRICOS
+2009,571,DESENVOLVIMENTO CIENTIFICO
+2009,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2009,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2009,601,PROMOCAO DA PRODUCAO VEGETAL
+2009,602,PROMOCAO DA PRODUCAO ANIMAL
+2009,603,DEFESA SANITARIA VEGETAL
+2009,604,DEFESA SANITARIA ANIMAL
+2009,605,ABASTECIMENTO
+2009,606,EXTENSAO RURAL
+2009,607,IRRIGACAO
+2009,631,REFORMA AGRARIA
+2009,661,PROMOCAO INDUSTRIAL
+2009,662,PRODUCAO INDUSTRIAL
+2009,663,MINERACAO
+2009,665,NORMALIZACAO E QUALIDADE
+2009,691,PROMOCAO COMERCIAL
+2009,692,COMERCIALIZACAO
+2009,693,COMERCIO EXTERIOR
+2009,694,SERVICOS FINANCEIROS
+2009,695,TURISMO
+2009,722,TELECOMUNICACOES
+2009,752,ENERGIA ELETRICA
+2009,781,TRANSPORTE AEREO
+2009,782,TRANSPORTE RODOVIARIO
+2009,783,TRANSPORTE FERROVIARIO
+2009,784,TRANSPORTE HIDROVIARIO
+2009,811,DESPORTO DE RENDIMENTO
+2009,812,DESPORTO COMUNITARIO
+2009,843,SERVICO DA DIVIDA INTERNA
+2009,844,SERVICO DA DIVIDA EXTERNA
+2009,845,OUTRAS TRANSFER NCIAS
+2009,846,OUTROS ENCARGOS ESPECIAIS
+2009,999,RESERVA DE CONTINGENCIA
+2010,31,ACAO LEGISLATIVA
+2010,32,CONTROLE EXTERNO
+2010,61,ACAO JUDICIARIA
+2010,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2010,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2010,121,PLANEJAMENTO E ORCAMENTO
+2010,122,ADMINISTRACAO GERAL
+2010,123,ADMINISTRACAO FINANCEIRA
+2010,124,CONTROLE INTERNO
+2010,125,NORMATIZACAO E FISCALIZACAO
+2010,126,TECNOLOGIA DA INFORMACAO
+2010,127,ORDENAMENTO TERRITORIAL
+2010,128,FORMACAO DE RECURSOS HUMANOS
+2010,129,ADMINISTRACAO DE RECEITAS
+2010,130,ADMINISTRACAO DE CONCESSOES
+2010,131,COMUNICACAO SOCIAL
+2010,181,POLICIAMENTO
+2010,182,DEFESA CIVIL
+2010,183,INFORMACAO E INTELIGENCIA
+2010,212,COOPERACAO INTERNACIONAL
+2010,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2010,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2010,244,ASSISTENCIA COMUNITARIA
+2010,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2010,274,PREVIDENCIA ESPECIAL
+2010,301,ATENCAO BASICA
+2010,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2010,303,SUPORTE PROFILATICO E TERAPEUTICO
+2010,304,VIGILANCIA SANITARIA
+2010,305,VIGILANCIA EPIDEMIOLOGICA
+2010,306,ALIMENTACAO E NUTRICAO
+2010,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2010,334,FOMENTO AO TRABALHO
+2010,361,ENSINO FUNDAMENTAL
+2010,362,ENSINO MEDIO
+2010,363,ENSINO PROFISSIONAL
+2010,364,ENSINO SUPERIOR
+2010,365,EDUCACAO INFANTIL
+2010,366,EDUCACAO DE JOVENS E ADULTOS
+2010,367,EDUCACAO ESPECIAL
+2010,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2010,392,DIFUSAO CULTURAL
+2010,421,CUSTODIA E REINTEGRACAO SOCIAL
+2010,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2010,451,INFRA-ESTRUTURA URBANA
+2010,452,SERVICOS URBANOS
+2010,453,TRANSPORTES COLETIVOS URBANOS
+2010,481,HABITACAO RURAL
+2010,482,HABITACAO URBANA
+2010,512,SANEAMENTO BASICO URBANO
+2010,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2010,542,CONTROLE AMBIENTAL
+2010,544,RECURSOS HIDRICOS
+2010,571,DESENVOLVIMENTO CIENTIFICO
+2010,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2010,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2010,601,PROMOCAO DA PRODUCAO VEGETAL
+2010,602,PROMOCAO DA PRODUCAO ANIMAL
+2010,603,DEFESA SANITARIA VEGETAL
+2010,604,DEFESA SANITARIA ANIMAL
+2010,605,ABASTECIMENTO
+2010,606,EXTENSAO RURAL
+2010,607,IRRIGACAO
+2010,631,REFORMA AGRARIA
+2010,661,PROMOCAO INDUSTRIAL
+2010,662,PRODUCAO INDUSTRIAL
+2010,663,MINERACAO
+2010,665,NORMALIZACAO E QUALIDADE
+2010,691,PROMOCAO COMERCIAL
+2010,692,COMERCIALIZACAO
+2010,693,COMERCIO EXTERIOR
+2010,694,SERVICOS FINANCEIROS
+2010,695,TURISMO
+2010,722,TELECOMUNICACOES
+2010,752,ENERGIA ELETRICA
+2010,781,TRANSPORTE AEREO
+2010,782,TRANSPORTE RODOVIARIO
+2010,783,TRANSPORTE FERROVIARIO
+2010,784,TRANSPORTE HIDROVIARIO
+2010,811,DESPORTO DE RENDIMENTO
+2010,812,DESPORTO COMUNITARIO
+2010,813,LAZER
+2010,843,SERVICO DA DIVIDA INTERNA
+2010,844,SERVICO DA DIVIDA EXTERNA
+2010,845,OUTRAS TRANSFERENCIAS
+2010,846,OUTROS ENCARGOS ESPECIAIS
+2010,999,RESERVA DE CONTINGENCIA
+2011,31,ACAO LEGISLATIVA
+2011,32,CONTROLE EXTERNO
+2011,61,ACAO JUDICIARIA
+2011,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2011,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2011,121,PLANEJAMENTO E ORCAMENTO
+2011,122,ADMINISTRACAO GERAL
+2011,123,ADMINISTRACAO FINANCEIRA
+2011,124,CONTROLE INTERNO
+2011,125,NORMATIZACAO E FISCALIZACAO
+2011,126,TECNOLOGIA DA INFORMACAO
+2011,127,ORDENAMENTO TERRITORIAL
+2011,128,FORMACAO DE RECURSOS HUMANOS
+2011,129,ADMINISTRACAO DE RECEITAS
+2011,130,ADMINISTRACAO DE CONCESSOES
+2011,131,COMUNICACAO SOCIAL
+2011,181,POLICIAMENTO
+2011,182,DEFESA CIVIL
+2011,183,INFORMACAO E INTELIGENCIA
+2011,212,COOPERACAO INTERNACIONAL
+2011,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2011,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2011,244,ASSISTENCIA COMUNITARIA
+2011,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2011,274,PREVIDENCIA ESPECIAL
+2011,301,ATENCAO BASICA
+2011,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2011,303,SUPORTE PROFILATICO E TERAPEUTICO
+2011,304,VIGILANCIA SANITARIA
+2011,305,VIGILANCIA EPIDEMIOLOGICA
+2011,306,ALIMENTACAO E NUTRICAO
+2011,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2011,333,EMPREGABILIDADE
+2011,334,FOMENTO AO TRABALHO
+2011,361,ENSINO FUNDAMENTAL
+2011,362,ENSINO MEDIO
+2011,363,ENSINO PROFISSIONAL
+2011,364,ENSINO SUPERIOR
+2011,365,EDUCACAO INFANTIL
+2011,366,EDUCACAO DE JOVENS E ADULTOS
+2011,367,EDUCACAO ESPECIAL
+2011,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2011,392,DIFUSAO CULTURAL
+2011,421,CUSTODIA E REINTEGRACAO SOCIAL
+2011,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2011,451,INFRA-ESTRUTURA URBANA
+2011,452,SERVICOS URBANOS
+2011,453,TRANSPORTES COLETIVOS URBANOS
+2011,481,HABITACAO RURAL
+2011,482,HABITACAO URBANA
+2011,511,SANEAMENTO BASICO RURAL
+2011,512,SANEAMENTO BASICO URBANO
+2011,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2011,542,CONTROLE AMBIENTAL
+2011,544,RECURSOS HIDRICOS
+2011,571,DESENVOLVIMENTO CIENTIFICO
+2011,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2011,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2011,601,PROMOCAO DA PRODUCAO VEGETAL
+2011,602,PROMOCAO DA PRODUCAO ANIMAL
+2011,603,DEFESA SANITARIA VEGETAL
+2011,604,DEFESA SANITARIA ANIMAL
+2011,605,ABASTECIMENTO
+2011,606,EXTENSAO RURAL
+2011,607,IRRIGACAO
+2011,631,REFORMA AGRARIA
+2011,661,PROMOCAO INDUSTRIAL
+2011,662,PRODUCAO INDUSTRIAL
+2011,663,MINERACAO
+2011,665,NORMALIZACAO E QUALIDADE
+2011,691,PROMOCAO COMERCIAL
+2011,692,COMERCIALIZACAO
+2011,693,COMERCIO EXTERIOR
+2011,694,SERVICOS FINANCEIROS
+2011,695,TURISMO
+2011,722,TELECOMUNICACOES
+2011,752,ENERGIA ELETRICA
+2011,781,TRANSPORTE AEREO
+2011,782,TRANSPORTE RODOVIARIO
+2011,783,TRANSPORTE FERROVIARIO
+2011,784,TRANSPORTE HIDROVIARIO
+2011,811,DESPORTO DE RENDIMENTO
+2011,812,DESPORTO COMUNITARIO
+2011,813,LAZER
+2011,843,SERVICO DA DIVIDA INTERNA
+2011,844,SERVICO DA DIVIDA EXTERNA
+2011,845,OUTRAS TRANSFERENCIAS
+2011,846,OUTROS ENCARGOS ESPECIAIS
+2011,999,RESERVA DE CONTINGENCIA
+2012,31,ACAO LEGISLATIVA
+2012,32,CONTROLE EXTERNO
+2012,61,ACAO JUDICIARIA
+2012,62,DEFESA DO INTERESSE PUBLICO NO PROCESSO JUDICIARIO
+2012,92,REPRESENTACAO JUDICIAL E EXTRAJUDICIAL
+2012,121,PLANEJAMENTO E ORCAMENTO
+2012,122,ADMINISTRACAO GERAL
+2012,123,ADMINISTRACAO FINANCEIRA
+2012,124,CONTROLE INTERNO
+2012,125,NORMATIZACAO E FISCALIZACAO
+2012,126,TECNOLOGIA DA INFORMACAO
+2012,127,ORDENAMENTO TERRITORIAL
+2012,128,FORMACAO DE RECURSOS HUMANOS
+2012,129,ADMINISTRACAO DE RECEITAS
+2012,130,ADMINISTRACAO DE CONCESSOES
+2012,131,COMUNICACAO SOCIAL
+2012,181,POLICIAMENTO
+2012,182,DEFESA CIVIL
+2012,183,INFORMACAO E INTELIGENCIA
+2012,212,COOPERACAO INTERNACIONAL
+2012,242,ASSISTENCIA AO PORTADOR DE DEFICIENCIA
+2012,243,ASSISTENCIA A CRIANCA E AO ADOLESCENTE
+2012,244,ASSISTENCIA COMUNITARIA
+2012,272,PREVIDENCIA DO REGIME ESTATUTARIO
+2012,274,PREVIDENCIA ESPECIAL
+2012,301,ATENCAO BASICA
+2012,302,ASSISTENCIA HOSPITALAR E AMBULATORIAL
+2012,303,SUPORTE PROFILATICO E TERAPEUTICO
+2012,304,VIGILANCIA SANITARIA
+2012,305,VIGILANCIA EPIDEMIOLOGICA
+2012,306,ALIMENTACAO E NUTRICAO
+2012,331,PROTECAO E BENEFICIOS AO TRABALHADOR
+2012,333,EMPREGABILIDADE
+2012,334,FOMENTO AO TRABALHO
+2012,361,ENSINO FUNDAMENTAL
+2012,362,ENSINO MEDIO
+2012,363,ENSINO PROFISSIONAL
+2012,364,ENSINO SUPERIOR
+2012,365,EDUCACAO INFANTIL
+2012,366,EDUCACAO DE JOVENS E ADULTOS
+2012,367,EDUCACAO ESPECIAL
+2012,391,"PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO"
+2012,392,DIFUSAO CULTURAL
+2012,421,CUSTODIA E REINTEGRACAO SOCIAL
+2012,422,"DIREITOS INDIVIDUAIS, COLETIVOS E DIFUSOS"
+2012,451,INFRA-ESTRUTURA URBANA
+2012,452,SERVICOS URBANOS
+2012,482,HABITACAO URBANA
+2012,511,SANEAMENTO BASICO RURAL
+2012,512,SANEAMENTO BASICO URBANO
+2012,541,PRESERVACAO E CONSERVACAO AMBIENTAL
+2012,542,CONTROLE AMBIENTAL
+2012,543,RECUPERACAO DE AREAS DEGRADADAS
+2012,544,RECURSOS HIDRICOS
+2012,571,DESENVOLVIMENTO CIENTIFICO
+2012,572,DESENVOLVIMENTO TECNOLOGICO E ENGENHARIA
+2012,573,DIFUSAO DO CONHECIMENTO CIENTIFICO E TECNOLOGICO
+2012,601,PROMOCAO DA PRODUCAO VEGETAL
+2012,602,PROMOCAO DA PRODUCAO ANIMAL
+2012,603,DEFESA SANITARIA VEGETAL
+2012,604,DEFESA SANITARIA ANIMAL
+2012,605,ABASTECIMENTO
+2012,606,EXTENSAO RURAL
+2012,607,IRRIGACAO
+2012,631,REFORMA AGRARIA
+2012,661,PROMOCAO INDUSTRIAL
+2012,662,PRODUCAO INDUSTRIAL
+2012,663,MINERACAO
+2012,665,NORMALIZACAO E QUALIDADE
+2012,691,PROMOCAO COMERCIAL
+2012,692,COMERCIALIZACAO
+2012,693,COMERCIO EXTERIOR
+2012,694,SERVICOS FINANCEIROS
+2012,695,TURISMO
+2012,722,TELECOMUNICACOES
+2012,752,ENERGIA ELETRICA
+2012,781,TRANSPORTE AEREO
+2012,782,TRANSPORTE RODOVIARIO
+2012,783,TRANSPORTE FERROVIARIO
+2012,811,DESPORTO DE RENDIMENTO
+2012,812,DESPORTO COMUNITARIO
+2012,813,LAZER
+2012,843,SERVICO DA DIVIDA INTERNA
+2012,844,SERVICO DA DIVIDA EXTERNA
+2012,845,OUTRAS TRANSFERENCIAS
+2012,846,OUTROS ENCARGOS ESPECIAIS
+2012,999,RESERVA DE CONTINGENCIA
 2013,31,ACAO LEGISLATIVA
 2013,32,CONTROLE EXTERNO
 2013,61,ACAO JUDICIARIA

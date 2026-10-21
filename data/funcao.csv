@@ -11,7 +11,7 @@ ano,funcao_cod,funcao_desc
 1998,8,EDUCACAO E CULTURA
 1998,11,"INDUSTRIA, COMERCIO E SERVICOS"
 1998,13,SAUDE E SANEAMENTO
-1998,16,HABITACAO                                                             
+1998,16,HABITACAO
 1998,16,TRANSPORTE
 1998,99,RESERVA DE CONTINGENCIA
 1999,2,JUDICIARIA
@@ -24,7 +24,7 @@ ano,funcao_cod,funcao_desc
 2000,2,JUDICIARIA
 2000,3,ESSENCIAL A JUSTICA
 2000,4,ADMINISTRACAO
-2000,4,ADMINISTRACAO                                                         
+2000,4,ADMINISTRACAO
 2000,6,SEGURANCA PUBLICA
 2000,8,ASSISTENCIA SOCIAL
 2000,10,SAUDE
@@ -33,11 +33,11 @@ ano,funcao_cod,funcao_desc
 2000,13,CULTURA
 2000,14,DIREITOS DA CIDADANIA
 2000,16,HABITACAO
-2000,16,HABITACAO                                                             
+2000,16,HABITACAO
 2000,17,SANEAMENTO
 2000,18,GESTAO AMBIENTAL
 2000,19,CIENCIA E TECNOLOGIA
-2000,19,CIENCIA E TECNOLOGIA                                                  
+2000,19,CIENCIA E TECNOLOGIA
 2000,22,INDUSTRIA
 2000,23,COMERCIO E SERVICOS
 2000,24,COMUNICACOES
@@ -49,7 +49,7 @@ ano,funcao_cod,funcao_desc
 2001,2,JUDICIARIA
 2001,3,ESSENCIAL A JUSTICA
 2001,4,ADMINISTRACAO
-2001,4,ADMINISTRACAO                                                         
+2001,4,ADMINISTRACAO
 2001,6,SEGURANCA PUBLICA
 2001,8,ASSISTENCIA SOCIAL
 2001,9,PREVIDENCIA SOCIAL
@@ -72,312 +72,312 @@ ano,funcao_cod,funcao_desc
 2001,27,DESPORTO E LAZER
 2001,28,ENCARGOS ESPECIAIS
 2001,99,RESERVA DE CONTINGENCIA
-2002,1,LEGISLATIVA                                                           
-2002,2,JUDICIARIA                                                            
-2002,3,ESSENCIAL A JUSTICA                                                   
-2002,4,ADMINISTRACAO                                                         
-2002,6,SEGURANCA PUBLICA                                                     
-2002,8,ASSISTENCIA SOCIAL                                                    
-2002,9,PREVIDENCIA SOCIAL                                                    
-2002,10,SAUDE                                                                 
-2002,11,TRABALHO                                                              
-2002,12,EDUCACAO                                                              
-2002,13,CULTURA                                                               
-2002,14,DIREITOS DA CIDADANIA                                                 
-2002,15,URBANISMO                                                             
-2002,16,HABITACAO                                                             
-2002,17,SANEAMENTO                                                            
-2002,18,GESTAO AMBIENTAL                                                      
-2002,19,CIENCIA E TECNOLOGIA                                                  
-2002,20,AGRICULTURA                                                           
-2002,21,ORGANIZACAO AGRARIA                                                   
-2002,22,INDUSTRIA                                                             
-2002,23,COMERCIO E SERVICOS                                                   
-2002,24,COMUNICACOES                                                          
-2002,25,ENERGIA                                                               
-2002,26,TRANSPORTE                                                            
-2002,27,DESPORTO E LAZER                                                      
-2002,28,ENCARGOS ESPECIAIS                                                    
-2002,99,RESERVA DE CONTINGENCIA                                               
-2003,1,LEGISLATIVA                                                           
-2003,2,JUDICIARIA                                                            
-2003,3,ESSENCIAL A JUSTICA                                                   
-2003,4,ADMINISTRACAO                                                         
-2003,6,SEGURANCA PUBLICA                                                     
-2003,8,ASSISTENCIA SOCIAL                                                    
-2003,9,PREVIDENCIA SOCIAL                                                    
-2003,10,SAUDE                                                                 
-2003,11,TRABALHO                                                              
-2003,12,EDUCACAO                                                              
-2003,13,CULTURA                                                               
-2003,14,DIREITOS DA CIDADANIA                                                 
-2003,15,URBANISMO                                                             
-2003,16,HABITACAO                                                             
-2003,17,SANEAMENTO                                                            
-2003,18,GESTAO AMBIENTAL                                                      
-2003,19,CIENCIA E TECNOLOGIA                                                  
-2003,20,AGRICULTURA                                                           
-2003,21,ORGANIZACAO AGRARIA                                                   
-2003,22,INDUSTRIA                                                             
-2003,23,COMERCIO E SERVICOS                                                   
-2003,24,COMUNICACOES                                                          
-2003,25,ENERGIA                                                               
-2003,26,TRANSPORTE                                                            
-2003,27,DESPORTO E LAZER                                                      
-2003,28,ENCARGOS ESPECIAIS                                                    
-2003,99,RESERVA DE CONTINGENCIA                                               
-2004,1,LEGISLATIVA                                                           
-2004,2,JUDICIARIA                                                            
-2004,3,ESSENCIAL A JUSTICA                                                   
-2004,4,ADMINISTRACAO                                                         
-2004,6,SEGURANCA PUBLICA                                                     
-2004,7,RELACOES EXTERIORES                                                   
-2004,8,ASSISTENCIA SOCIAL                                                    
-2004,9,PREVIDENCIA SOCIAL                                                    
-2004,10,SAUDE                                                                 
-2004,11,TRABALHO                                                              
-2004,12,EDUCACAO                                                              
-2004,13,CULTURA                                                               
-2004,14,DIREITOS DA CIDADANIA                                                 
-2004,15,URBANISMO                                                             
-2004,16,HABITACAO                                                             
-2004,17,SANEAMENTO                                                            
-2004,18,GESTAO AMBIENTAL                                                      
-2004,19,CIENCIA E TECNOLOGIA                                                  
-2004,20,AGRICULTURA                                                           
-2004,21,ORGANIZACAO AGRARIA                                                   
-2004,22,INDUSTRIA                                                             
-2004,23,COMERCIO E SERVICOS                                                   
-2004,24,COMUNICACOES                                                          
-2004,25,ENERGIA                                                               
-2004,26,TRANSPORTE                                                            
-2004,27,DESPORTO E LAZER                                                      
-2004,28,ENCARGOS ESPECIAIS                                                    
-2004,99,RESERVA DE CONTINGENCIA                                               
-2005,1,LEGISLATIVA                                                           
-2005,2,JUDICIARIA                                                            
-2005,3,ESSENCIAL A JUSTICA                                                   
-2005,4,ADMINISTRACAO                                                         
-2005,6,SEGURANCA PUBLICA                                                     
-2005,7,RELACOES EXTERIORES                                                   
-2005,8,ASSISTENCIA SOCIAL                                                    
-2005,9,PREVIDENCIA SOCIAL                                                    
-2005,10,SAUDE                                                                 
-2005,11,TRABALHO                                                              
-2005,12,EDUCACAO                                                              
-2005,13,CULTURA                                                               
-2005,14,DIREITOS DA CIDADANIA                                                 
-2005,15,URBANISMO                                                             
-2005,16,HABITACAO                                                             
-2005,17,SANEAMENTO                                                            
-2005,18,GESTAO AMBIENTAL                                                      
-2005,19,CIENCIA E TECNOLOGIA                                                  
-2005,20,AGRICULTURA                                                           
-2005,21,ORGANIZACAO AGRARIA                                                   
-2005,22,INDUSTRIA                                                             
-2005,23,COMERCIO E SERVICOS                                                   
-2005,24,COMUNICACOES                                                          
-2005,25,ENERGIA                                                               
-2005,26,TRANSPORTE                                                            
-2005,27,DESPORTO E LAZER                                                      
-2005,28,ENCARGOS ESPECIAIS                                                    
-2005,99,RESERVA DE CONTINGENCIA                                               
-2006,1,LEGISLATIVA                                                           
-2006,2,JUDICIARIA                                                            
-2006,3,ESSENCIAL A JUSTICA                                                   
-2006,4,ADMINISTRACAO                                                         
-2006,6,SEGURANCA PUBLICA                                                     
-2006,7,RELACOES EXTERIORES                                                   
-2006,8,ASSISTENCIA SOCIAL                                                    
-2006,9,PREVIDENCIA SOCIAL                                                    
-2006,10,SAUDE                                                                 
-2006,11,TRABALHO                                                              
-2006,12,EDUCACAO                                                              
-2006,13,CULTURA                                                               
-2006,14,DIREITOS DA CIDADANIA                                                 
-2006,15,URBANISMO                                                             
-2006,16,HABITACAO                                                             
-2006,17,SANEAMENTO                                                            
-2006,18,GESTAO AMBIENTAL                                                      
-2006,19,CIENCIA E TECNOLOGIA                                                  
-2006,20,AGRICULTURA                                                           
-2006,21,ORGANIZACAO AGRARIA                                                   
-2006,22,INDUSTRIA                                                             
-2006,23,COMERCIO E SERVICOS                                                   
-2006,24,COMUNICACOES                                                          
-2006,25,ENERGIA                                                               
-2006,26,TRANSPORTE                                                            
-2006,27,DESPORTO E LAZER                                                      
-2006,28,ENCARGOS ESPECIAIS                                                    
-2006,99,RESERVA DE CONTINGENCIA                                               
-2007,1,LEGISLATIVA                                                           
-2007,2,JUDICIARIA                                                            
-2007,3,ESSENCIAL A JUSTICA                                                   
-2007,4,ADMINISTRACAO                                                         
-2007,6,SEGURANCA PUBLICA                                                     
-2007,7,RELACOES EXTERIORES                                                   
-2007,8,ASSISTENCIA SOCIAL                                                    
-2007,9,PREVIDENCIA SOCIAL                                                    
-2007,10,SAUDE                                                                 
-2007,11,TRABALHO                                                              
-2007,12,EDUCACAO                                                              
-2007,13,CULTURA                                                               
-2007,14,DIREITOS DA CIDADANIA                                                 
-2007,15,URBANISMO                                                             
-2007,16,HABITACAO                                                             
-2007,17,SANEAMENTO                                                            
-2007,18,GESTAO AMBIENTAL                                                      
-2007,19,CIENCIA E TECNOLOGIA                                                  
-2007,20,AGRICULTURA                                                           
-2007,21,ORGANIZACAO AGRARIA                                                   
-2007,22,INDUSTRIA                                                             
-2007,23,COMERCIO E SERVICOS                                                   
-2007,24,COMUNICACOES                                                          
-2007,25,ENERGIA                                                               
-2007,26,TRANSPORTE                                                            
-2007,27,DESPORTO E LAZER                                                      
-2007,28,ENCARGOS ESPECIAIS                                                    
-2007,99,RESERVA DE CONTINGENCIA                                               
-2008,1,LEGISLATIVA                                                           
-2008,2,JUDICIARIA                                                            
-2008,3,ESSENCIAL A JUSTICA                                                   
-2008,4,ADMINISTRACAO                                                         
-2008,6,SEGURANCA PUBLICA                                                     
-2008,7,RELACOES EXTERIORES                                                   
-2008,8,ASSISTENCIA SOCIAL                                                    
-2008,9,PREVIDENCIA SOCIAL                                                    
-2008,10,SAUDE                                                                 
-2008,11,TRABALHO                                                              
-2008,12,EDUCACAO                                                              
-2008,13,CULTURA                                                               
-2008,14,DIREITOS DA CIDADANIA                                                 
-2008,15,URBANISMO                                                             
-2008,16,HABITACAO                                                             
-2008,17,SANEAMENTO                                                            
-2008,18,GESTAO AMBIENTAL                                                      
-2008,19,CIENCIA E TECNOLOGIA                                                  
-2008,20,AGRICULTURA                                                           
-2008,21,ORGANIZACAO AGRARIA                                                   
-2008,22,INDUSTRIA                                                             
-2008,23,COMERCIO E SERVICOS                                                   
-2008,24,COMUNICACOES                                                          
-2008,25,ENERGIA                                                               
-2008,26,TRANSPORTE                                                            
-2008,27,DESPORTO E LAZER                                                      
-2008,28,ENCARGOS ESPECIAIS                                                    
-2008,99,RESERVA DE CONTINGENCIA                                               
-2009,1,LEGISLATIVA                                                           
-2009,2,JUDICIARIA                                                            
-2009,3,ESSENCIAL A JUSTICA                                                   
-2009,4,ADMINISTRACAO                                                         
-2009,6,SEGURANCA PUBLICA                                                     
-2009,7,RELACOES EXTERIORES                                                   
-2009,8,ASSISTENCIA SOCIAL                                                    
-2009,9,PREVIDENCIA SOCIAL                                                    
-2009,10,SAUDE                                                                 
-2009,11,TRABALHO                                                              
-2009,12,EDUCACAO                                                              
-2009,13,CULTURA                                                               
-2009,14,DIREITOS DA CIDADANIA                                                 
-2009,15,URBANISMO                                                             
-2009,16,HABITACAO                                                             
-2009,17,SANEAMENTO                                                            
-2009,18,GESTAO AMBIENTAL                                                      
-2009,19,CIENCIA E TECNOLOGIA                                                  
-2009,20,AGRICULTURA                                                           
-2009,21,ORGANIZACAO AGRARIA                                                   
-2009,22,INDUSTRIA                                                             
-2009,23,COMERCIO E SERVICOS                                                   
-2009,24,COMUNICACOES                                                          
-2009,25,ENERGIA                                                               
-2009,26,TRANSPORTE                                                            
-2009,27,DESPORTO E LAZER                                                      
-2009,28,ENCARGOS ESPECIAIS                                                    
-2009,99,RESERVA DE CONTINGENCIA                                               
-2010,1,LEGISLATIVA                                                           
-2010,2,JUDICIARIA                                                            
-2010,3,ESSENCIAL A JUSTICA                                                   
-2010,4,ADMINISTRACAO                                                         
-2010,6,SEGURANCA PUBLICA                                                     
-2010,7,RELACOES EXTERIORES                                                   
-2010,8,ASSISTENCIA SOCIAL                                                    
-2010,9,PREVIDENCIA SOCIAL                                                    
-2010,10,SAUDE                                                                 
-2010,11,TRABALHO                                                              
-2010,12,EDUCACAO                                                              
-2010,13,CULTURA                                                               
-2010,14,DIREITOS DA CIDADANIA                                                 
-2010,15,URBANISMO                                                             
-2010,16,HABITACAO                                                             
-2010,17,SANEAMENTO                                                            
-2010,18,GESTAO AMBIENTAL                                                      
-2010,19,CIENCIA E TECNOLOGIA                                                  
-2010,20,AGRICULTURA                                                           
-2010,21,ORGANIZACAO AGRARIA                                                   
-2010,22,INDUSTRIA                                                             
-2010,23,COMERCIO E SERVICOS                                                   
-2010,24,COMUNICACOES                                                          
-2010,25,ENERGIA                                                               
-2010,26,TRANSPORTE                                                            
-2010,27,DESPORTO E LAZER                                                      
-2010,28,ENCARGOS ESPECIAIS                                                    
-2010,99,RESERVA DE CONTINGENCIA                                               
-2011,1,LEGISLATIVA                                                           
-2011,2,JUDICIARIA                                                            
-2011,3,ESSENCIAL A JUSTICA                                                   
-2011,4,ADMINISTRACAO                                                         
-2011,6,SEGURANCA PUBLICA                                                     
-2011,7,RELACOES EXTERIORES                                                   
-2011,8,ASSISTENCIA SOCIAL                                                    
-2011,9,PREVIDENCIA SOCIAL                                                    
-2011,10,SAUDE                                                                 
-2011,11,TRABALHO                                                              
-2011,12,EDUCACAO                                                              
-2011,13,CULTURA                                                               
-2011,14,DIREITOS DA CIDADANIA                                                 
-2011,15,URBANISMO                                                             
-2011,16,HABITACAO                                                             
-2011,17,SANEAMENTO                                                            
-2011,18,GESTAO AMBIENTAL                                                      
-2011,19,CIENCIA E TECNOLOGIA                                                  
-2011,20,AGRICULTURA                                                           
-2011,21,ORGANIZACAO AGRARIA                                                   
-2011,22,INDUSTRIA                                                             
-2011,23,COMERCIO E SERVICOS                                                   
-2011,24,COMUNICACOES                                                          
-2011,25,ENERGIA                                                               
-2011,26,TRANSPORTE                                                            
-2011,27,DESPORTO E LAZER                                                      
-2011,28,ENCARGOS ESPECIAIS                                                    
-2011,99,RESERVA DE CONTINGENCIA                                               
-2012,1,LEGISLATIVA                                                           
-2012,2,JUDICIARIA                                                            
-2012,3,ESSENCIAL A JUSTICA                                                   
-2012,4,ADMINISTRACAO                                                         
-2012,6,SEGURANCA PUBLICA                                                     
-2012,7,RELACOES EXTERIORES                                                   
-2012,8,ASSISTENCIA SOCIAL                                                    
-2012,9,PREVIDENCIA SOCIAL                                                    
-2012,10,SAUDE                                                                 
-2012,11,TRABALHO                                                              
-2012,12,EDUCACAO                                                              
-2012,13,CULTURA                                                               
-2012,14,DIREITOS DA CIDADANIA                                                 
-2012,15,URBANISMO                                                             
-2012,16,HABITACAO                                                             
-2012,17,SANEAMENTO                                                            
-2012,18,GESTAO AMBIENTAL                                                      
-2012,19,CIENCIA E TECNOLOGIA                                                  
-2012,20,AGRICULTURA                                                           
-2012,21,ORGANIZACAO AGRARIA                                                   
-2012,22,INDUSTRIA                                                             
-2012,23,COMERCIO E SERVICOS                                                   
-2012,24,COMUNICACOES                                                          
-2012,25,ENERGIA                                                               
-2012,26,TRANSPORTE                                                            
-2012,27,DESPORTO E LAZER                                                      
-2012,28,ENCARGOS ESPECIAIS                                                    
-2012,99,RESERVA DE CONTINGENCIA                                               
+2002,1,LEGISLATIVA
+2002,2,JUDICIARIA
+2002,3,ESSENCIAL A JUSTICA
+2002,4,ADMINISTRACAO
+2002,6,SEGURANCA PUBLICA
+2002,8,ASSISTENCIA SOCIAL
+2002,9,PREVIDENCIA SOCIAL
+2002,10,SAUDE
+2002,11,TRABALHO
+2002,12,EDUCACAO
+2002,13,CULTURA
+2002,14,DIREITOS DA CIDADANIA
+2002,15,URBANISMO
+2002,16,HABITACAO
+2002,17,SANEAMENTO
+2002,18,GESTAO AMBIENTAL
+2002,19,CIENCIA E TECNOLOGIA
+2002,20,AGRICULTURA
+2002,21,ORGANIZACAO AGRARIA
+2002,22,INDUSTRIA
+2002,23,COMERCIO E SERVICOS
+2002,24,COMUNICACOES
+2002,25,ENERGIA
+2002,26,TRANSPORTE
+2002,27,DESPORTO E LAZER
+2002,28,ENCARGOS ESPECIAIS
+2002,99,RESERVA DE CONTINGENCIA
+2003,1,LEGISLATIVA
+2003,2,JUDICIARIA
+2003,3,ESSENCIAL A JUSTICA
+2003,4,ADMINISTRACAO
+2003,6,SEGURANCA PUBLICA
+2003,8,ASSISTENCIA SOCIAL
+2003,9,PREVIDENCIA SOCIAL
+2003,10,SAUDE
+2003,11,TRABALHO
+2003,12,EDUCACAO
+2003,13,CULTURA
+2003,14,DIREITOS DA CIDADANIA
+2003,15,URBANISMO
+2003,16,HABITACAO
+2003,17,SANEAMENTO
+2003,18,GESTAO AMBIENTAL
+2003,19,CIENCIA E TECNOLOGIA
+2003,20,AGRICULTURA
+2003,21,ORGANIZACAO AGRARIA
+2003,22,INDUSTRIA
+2003,23,COMERCIO E SERVICOS
+2003,24,COMUNICACOES
+2003,25,ENERGIA
+2003,26,TRANSPORTE
+2003,27,DESPORTO E LAZER
+2003,28,ENCARGOS ESPECIAIS
+2003,99,RESERVA DE CONTINGENCIA
+2004,1,LEGISLATIVA
+2004,2,JUDICIARIA
+2004,3,ESSENCIAL A JUSTICA
+2004,4,ADMINISTRACAO
+2004,6,SEGURANCA PUBLICA
+2004,7,RELACOES EXTERIORES
+2004,8,ASSISTENCIA SOCIAL
+2004,9,PREVIDENCIA SOCIAL
+2004,10,SAUDE
+2004,11,TRABALHO
+2004,12,EDUCACAO
+2004,13,CULTURA
+2004,14,DIREITOS DA CIDADANIA
+2004,15,URBANISMO
+2004,16,HABITACAO
+2004,17,SANEAMENTO
+2004,18,GESTAO AMBIENTAL
+2004,19,CIENCIA E TECNOLOGIA
+2004,20,AGRICULTURA
+2004,21,ORGANIZACAO AGRARIA
+2004,22,INDUSTRIA
+2004,23,COMERCIO E SERVICOS
+2004,24,COMUNICACOES
+2004,25,ENERGIA
+2004,26,TRANSPORTE
+2004,27,DESPORTO E LAZER
+2004,28,ENCARGOS ESPECIAIS
+2004,99,RESERVA DE CONTINGENCIA
+2005,1,LEGISLATIVA
+2005,2,JUDICIARIA
+2005,3,ESSENCIAL A JUSTICA
+2005,4,ADMINISTRACAO
+2005,6,SEGURANCA PUBLICA
+2005,7,RELACOES EXTERIORES
+2005,8,ASSISTENCIA SOCIAL
+2005,9,PREVIDENCIA SOCIAL
+2005,10,SAUDE
+2005,11,TRABALHO
+2005,12,EDUCACAO
+2005,13,CULTURA
+2005,14,DIREITOS DA CIDADANIA
+2005,15,URBANISMO
+2005,16,HABITACAO
+2005,17,SANEAMENTO
+2005,18,GESTAO AMBIENTAL
+2005,19,CIENCIA E TECNOLOGIA
+2005,20,AGRICULTURA
+2005,21,ORGANIZACAO AGRARIA
+2005,22,INDUSTRIA
+2005,23,COMERCIO E SERVICOS
+2005,24,COMUNICACOES
+2005,25,ENERGIA
+2005,26,TRANSPORTE
+2005,27,DESPORTO E LAZER
+2005,28,ENCARGOS ESPECIAIS
+2005,99,RESERVA DE CONTINGENCIA
+2006,1,LEGISLATIVA
+2006,2,JUDICIARIA
+2006,3,ESSENCIAL A JUSTICA
+2006,4,ADMINISTRACAO
+2006,6,SEGURANCA PUBLICA
+2006,7,RELACOES EXTERIORES
+2006,8,ASSISTENCIA SOCIAL
+2006,9,PREVIDENCIA SOCIAL
+2006,10,SAUDE
+2006,11,TRABALHO
+2006,12,EDUCACAO
+2006,13,CULTURA
+2006,14,DIREITOS DA CIDADANIA
+2006,15,URBANISMO
+2006,16,HABITACAO
+2006,17,SANEAMENTO
+2006,18,GESTAO AMBIENTAL
+2006,19,CIENCIA E TECNOLOGIA
+2006,20,AGRICULTURA
+2006,21,ORGANIZACAO AGRARIA
+2006,22,INDUSTRIA
+2006,23,COMERCIO E SERVICOS
+2006,24,COMUNICACOES
+2006,25,ENERGIA
+2006,26,TRANSPORTE
+2006,27,DESPORTO E LAZER
+2006,28,ENCARGOS ESPECIAIS
+2006,99,RESERVA DE CONTINGENCIA
+2007,1,LEGISLATIVA
+2007,2,JUDICIARIA
+2007,3,ESSENCIAL A JUSTICA
+2007,4,ADMINISTRACAO
+2007,6,SEGURANCA PUBLICA
+2007,7,RELACOES EXTERIORES
+2007,8,ASSISTENCIA SOCIAL
+2007,9,PREVIDENCIA SOCIAL
+2007,10,SAUDE
+2007,11,TRABALHO
+2007,12,EDUCACAO
+2007,13,CULTURA
+2007,14,DIREITOS DA CIDADANIA
+2007,15,URBANISMO
+2007,16,HABITACAO
+2007,17,SANEAMENTO
+2007,18,GESTAO AMBIENTAL
+2007,19,CIENCIA E TECNOLOGIA
+2007,20,AGRICULTURA
+2007,21,ORGANIZACAO AGRARIA
+2007,22,INDUSTRIA
+2007,23,COMERCIO E SERVICOS
+2007,24,COMUNICACOES
+2007,25,ENERGIA
+2007,26,TRANSPORTE
+2007,27,DESPORTO E LAZER
+2007,28,ENCARGOS ESPECIAIS
+2007,99,RESERVA DE CONTINGENCIA
+2008,1,LEGISLATIVA
+2008,2,JUDICIARIA
+2008,3,ESSENCIAL A JUSTICA
+2008,4,ADMINISTRACAO
+2008,6,SEGURANCA PUBLICA
+2008,7,RELACOES EXTERIORES
+2008,8,ASSISTENCIA SOCIAL
+2008,9,PREVIDENCIA SOCIAL
+2008,10,SAUDE
+2008,11,TRABALHO
+2008,12,EDUCACAO
+2008,13,CULTURA
+2008,14,DIREITOS DA CIDADANIA
+2008,15,URBANISMO
+2008,16,HABITACAO
+2008,17,SANEAMENTO
+2008,18,GESTAO AMBIENTAL
+2008,19,CIENCIA E TECNOLOGIA
+2008,20,AGRICULTURA
+2008,21,ORGANIZACAO AGRARIA
+2008,22,INDUSTRIA
+2008,23,COMERCIO E SERVICOS
+2008,24,COMUNICACOES
+2008,25,ENERGIA
+2008,26,TRANSPORTE
+2008,27,DESPORTO E LAZER
+2008,28,ENCARGOS ESPECIAIS
+2008,99,RESERVA DE CONTINGENCIA
+2009,1,LEGISLATIVA
+2009,2,JUDICIARIA
+2009,3,ESSENCIAL A JUSTICA
+2009,4,ADMINISTRACAO
+2009,6,SEGURANCA PUBLICA
+2009,7,RELACOES EXTERIORES
+2009,8,ASSISTENCIA SOCIAL
+2009,9,PREVIDENCIA SOCIAL
+2009,10,SAUDE
+2009,11,TRABALHO
+2009,12,EDUCACAO
+2009,13,CULTURA
+2009,14,DIREITOS DA CIDADANIA
+2009,15,URBANISMO
+2009,16,HABITACAO
+2009,17,SANEAMENTO
+2009,18,GESTAO AMBIENTAL
+2009,19,CIENCIA E TECNOLOGIA
+2009,20,AGRICULTURA
+2009,21,ORGANIZACAO AGRARIA
+2009,22,INDUSTRIA
+2009,23,COMERCIO E SERVICOS
+2009,24,COMUNICACOES
+2009,25,ENERGIA
+2009,26,TRANSPORTE
+2009,27,DESPORTO E LAZER
+2009,28,ENCARGOS ESPECIAIS
+2009,99,RESERVA DE CONTINGENCIA
+2010,1,LEGISLATIVA
+2010,2,JUDICIARIA
+2010,3,ESSENCIAL A JUSTICA
+2010,4,ADMINISTRACAO
+2010,6,SEGURANCA PUBLICA
+2010,7,RELACOES EXTERIORES
+2010,8,ASSISTENCIA SOCIAL
+2010,9,PREVIDENCIA SOCIAL
+2010,10,SAUDE
+2010,11,TRABALHO
+2010,12,EDUCACAO
+2010,13,CULTURA
+2010,14,DIREITOS DA CIDADANIA
+2010,15,URBANISMO
+2010,16,HABITACAO
+2010,17,SANEAMENTO
+2010,18,GESTAO AMBIENTAL
+2010,19,CIENCIA E TECNOLOGIA
+2010,20,AGRICULTURA
+2010,21,ORGANIZACAO AGRARIA
+2010,22,INDUSTRIA
+2010,23,COMERCIO E SERVICOS
+2010,24,COMUNICACOES
+2010,25,ENERGIA
+2010,26,TRANSPORTE
+2010,27,DESPORTO E LAZER
+2010,28,ENCARGOS ESPECIAIS
+2010,99,RESERVA DE CONTINGENCIA
+2011,1,LEGISLATIVA
+2011,2,JUDICIARIA
+2011,3,ESSENCIAL A JUSTICA
+2011,4,ADMINISTRACAO
+2011,6,SEGURANCA PUBLICA
+2011,7,RELACOES EXTERIORES
+2011,8,ASSISTENCIA SOCIAL
+2011,9,PREVIDENCIA SOCIAL
+2011,10,SAUDE
+2011,11,TRABALHO
+2011,12,EDUCACAO
+2011,13,CULTURA
+2011,14,DIREITOS DA CIDADANIA
+2011,15,URBANISMO
+2011,16,HABITACAO
+2011,17,SANEAMENTO
+2011,18,GESTAO AMBIENTAL
+2011,19,CIENCIA E TECNOLOGIA
+2011,20,AGRICULTURA
+2011,21,ORGANIZACAO AGRARIA
+2011,22,INDUSTRIA
+2011,23,COMERCIO E SERVICOS
+2011,24,COMUNICACOES
+2011,25,ENERGIA
+2011,26,TRANSPORTE
+2011,27,DESPORTO E LAZER
+2011,28,ENCARGOS ESPECIAIS
+2011,99,RESERVA DE CONTINGENCIA
+2012,1,LEGISLATIVA
+2012,2,JUDICIARIA
+2012,3,ESSENCIAL A JUSTICA
+2012,4,ADMINISTRACAO
+2012,6,SEGURANCA PUBLICA
+2012,7,RELACOES EXTERIORES
+2012,8,ASSISTENCIA SOCIAL
+2012,9,PREVIDENCIA SOCIAL
+2012,10,SAUDE
+2012,11,TRABALHO
+2012,12,EDUCACAO
+2012,13,CULTURA
+2012,14,DIREITOS DA CIDADANIA
+2012,15,URBANISMO
+2012,16,HABITACAO
+2012,17,SANEAMENTO
+2012,18,GESTAO AMBIENTAL
+2012,19,CIENCIA E TECNOLOGIA
+2012,20,AGRICULTURA
+2012,21,ORGANIZACAO AGRARIA
+2012,22,INDUSTRIA
+2012,23,COMERCIO E SERVICOS
+2012,24,COMUNICACOES
+2012,25,ENERGIA
+2012,26,TRANSPORTE
+2012,27,DESPORTO E LAZER
+2012,28,ENCARGOS ESPECIAIS
+2012,99,RESERVA DE CONTINGENCIA
 2013,1,LEGISLATIVA
 2013,2,JUDICIARIA
 2013,3,ESSENCIAL A JUSTICA
