@@ -64,10 +64,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:ba4191855e930872ef4c78f29096b9fd9c75ce1999e695fe2213bcf70be73d2e",
-      "bytes": 67308,
+      "hash": "sha256:81782684df1e9da93b2b770092fe6b0c03f3184341d440aaf9d91cce465a4315",
+      "bytes": 67360,
       "fields": 3,
-      "rows": 1531,
+      "rows": 1532,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -114,10 +114,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b7aac7254d6b9440547ee953db2fd7e74f46269611d06fcbcb86516c2c03873a",
-      "bytes": 491596,
+      "hash": "sha256:81807c9a5f934b4f11f491a9f6bbd846b9338004b9f12a51bf2a2d95ef40fc4a",
+      "bytes": 491648,
       "fields": 3,
-      "rows": 10472,
+      "rows": 10473,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -642,9 +642,9 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:b5145d43075a1eaf2da0f624034c4edcec56db59a8e2db64f98cbb91f3b89314",
-      "bytes": 250882,
-      "fields": 4,
+      "hash": "sha256:791d8a753723045a0e42a48b797e18a137d70c2da991134d1e49308618e4902f",
+      "bytes": 298220,
+      "fields": 6,
       "rows": 3832,
       "dialect": {
         "csv": {
@@ -690,11 +690,29 @@
             "constraints": {
               "maxLength": 500
             }
+          },
+          {
+            "name": "poder_cod",
+            "type": "string",
+            "title": "Poder Unidade Orçamentária - Código",
+            "description": "Código indicativo do Poder no qual a unidade orçamentária está incluída.\nRefere-se a designação das orgãos e entidades segregados de acordo com suas funções e atribuições no setor público, a saber:\n(a) Poder Executivo.\n(b) Poder Judiciário.\n(c) Poder Legislativo.\n(d) Ministério Pùblico.\n(e) Tribunal de Contas\n(f) Defensoria Pública.\n",
+            "constraints": {
+              "pattern": "^[1-6]$"
+            }
+          },
+          {
+            "name": "poder_desc",
+            "type": "string",
+            "title": "Poder Unidade Orçamentária - Descrição",
+            "description": "Descrição do Poder no qual a unidade orçamentária está incluída:\nLesgislativo, Judiciário, Executivo, Ministério Público.\n",
+            "constraints": {
+              "maxLength": 500
+            }
           }
         ]
       }
     }
   ],
   "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
-  "updated_at": "2026-10-23T06:54:37"
+  "updated_at": "2026-10-26T14:29:20"
 }
