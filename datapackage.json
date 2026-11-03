@@ -114,10 +114,10 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:81807c9a5f934b4f11f491a9f6bbd846b9338004b9f12a51bf2a2d95ef40fc4a",
-      "bytes": 491648,
+      "hash": "sha256:fd882f54ef3a68358e1495b234af60079cb59a8d18093574bbb08ce56b3e96a5",
+      "bytes": 491710,
       "fields": 3,
-      "rows": 10473,
+      "rows": 10474,
       "dialect": {
         "csv": {
           "delimiter": ","
@@ -296,7 +296,7 @@
             "title": "Grupo Despesa - Código",
             "description": "Código do grupo de natureza econômica da despesa.\nConsiste na agregação de elementos de despesa que apresentam as mesmas características quanto ao objeto do gasto.\nA Portaria Interministerial STN/SOF n.o 163/01 definiu como grupos de despesa: (1) pessoal e encargos sociais, (2) juros e encargos da dívida, (3) outras despesas correntes, (4) investimentos, (5) inversões financeiras e (6) amortização da dívida.\n",
             "constraints": {
-              "pattern": "^([0-6]|9)$"
+              "pattern": "^([1-6]|9)$"
             }
           },
           {
@@ -322,56 +322,6 @@
             "type": "string",
             "title": "Categoria Econômica Despesa - Desc",
             "description": "Descrição da categoria econômica da despesa.\n",
-            "constraints": {
-              "maxLength": 500
-            }
-          }
-        ]
-      }
-    },
-    {
-      "name": "iag",
-      "type": "table",
-      "path": "data/iag.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "hash": "sha256:76dea0fc83f7741b128114ae5ae8a7d9585bb7a6c56c01371b01a47b020a2792",
-      "bytes": 1965,
-      "fields": 3,
-      "rows": 68,
-      "dialect": {
-        "csv": {
-          "delimiter": ","
-        }
-      },
-      "schema": {
-        "fields": [
-          {
-            "name": "ano",
-            "type": "string",
-            "title": "Ano de Exercício",
-            "description": "Ano de exercício do orçamento fiscal.\n",
-            "constraints": {
-              "required": true,
-              "pattern": "^[1-2]\\d{3}$"
-            }
-          },
-          {
-            "name": "iag_cod",
-            "type": "string",
-            "title": "Identificador Orçamento - Código",
-            "description": "Código do identificador do orçamento conforme o SIAFI-MG.\n",
-            "constraints": {
-              "pattern": "^[0-7]$"
-            }
-          },
-          {
-            "name": "iag_desc",
-            "type": "string",
-            "title": "Identificador Orçamento - Descrição",
-            "description": ".\n",
             "constraints": {
               "maxLength": 500
             }
@@ -702,17 +652,12 @@
           },
           {
             "name": "poder_desc",
-            "type": "string",
-            "title": "Poder Unidade Orçamentária - Descrição",
-            "description": "Descrição do Poder no qual a unidade orçamentária está incluída:\nLesgislativo, Judiciário, Executivo, Ministério Público.\n",
-            "constraints": {
-              "maxLength": 500
-            }
+            "type": "string"
           }
         ]
       }
     }
   ],
   "owner_org": "secretaria-de-estado-de-planejamento-e-gestao-seplag",
-  "updated_at": "2026-10-26T14:29:20"
+  "updated_at": "2026-11-03T17:10:58"
 }
